@@ -2,7 +2,7 @@
 - 👀 I’m interested in baseball, systems modeling, android app, java
 - 🌱 I’m currently learning new heights in Android App development with Google Cloud Platform integrated
 - 💞️ I’m looking to collaborate on systems models
-- 📫 How to reach me post an issue on my repository or Instagram @eeshvardasikcm
+- 📫 How to reach me post an issue on my repository or follow me on Instagram @eeshvardasikcm
 
 <!---
 eeshvardasikcm/eeshvardasikcm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
