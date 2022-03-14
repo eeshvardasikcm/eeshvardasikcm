@@ -2,7 +2,10 @@
 
 https://play.google.com/store/apps/details?id=com.eeshvardasikcm.shrotaconsiderate
 
-# Eeshvar Das (Erik Douglas Ward)
+# New with eeshvardasikcm GitHub
+GitHub Sponsorship is a new feature that I am appying for from GitHub. Sponsors will be able to participate with my code writing. Sponsors will also be able to direct my code writing given their specific interests.
+
+# Eeshvar Das (@eeshvardasikcm, Erik Douglas Ward)
 
 - 👋 Hi, I’m @eeshvardasikcm
 - 👀 I’m interested in baseball, systems modeling, android app, java
