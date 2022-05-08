@@ -1,11 +1,15 @@
-# Check out "Shrota Considerate"
+# eeshvardasikcm on GitHub 
+
+Documentation update in com.eeshvardasikcm.shrota-lang. The connection between baseball lot systems modeling and shrota language based time management uses good rest and ayurveda.
+
+## Shrota Considerate
 
 https://play.google.com/store/apps/details?id=com.eeshvardasikcm.shrotaconsiderate
 
-# New with eeshvardasikcm GitHub
+## New with eeshvardasikcm GitHub
 GitHub Sponsorship is a new feature that I am appying for from GitHub. Sponsors will be able to participate with my code writing. Sponsors will also be able to direct my code writing given their specific interests.
 
-# Eeshvar Das (@eeshvardasikcm, Erik Douglas Ward)
+### Eeshvar Das (@eeshvardasikcm, Erik Douglas Ward)
 
 - 👋 Hi, I’m @eeshvardasikcm
 - 👀 I’m interested in baseball, systems modeling, android app, java
