@@ -1,7 +1,7 @@
 # eeshvardasikcm on GitHub 
 
 Documentation update in com.eeshvardasikcm.shrota-lang. The connection between baseball lot systems modeling and shrota language based time management uses good rest and ayurveda. 
-https://github.com/eeshvardasikcm/shrota-lang/issues/21
+An Early look at Shrota Considerate App Google Calendar Integration #21 https://github.com/eeshvardasikcm/shrota-lang/issues/21
 
 ## Shrota Considerate
 
