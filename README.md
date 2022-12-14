@@ -2,7 +2,7 @@
 
 I am Eeshvar Das and I am developing *Shrota*, an Android app for Google Play.
 
-## New with eeshvardasikcm Github
+## New with eeshvardasikcm Github, shrota-dev (Shrota Development)
 shrota-dev repository is active, public, open source,
 and part of my eeshvardasikcm GitHub.
 I am welcoming the GitHub community to get involved in my new technology,
