@@ -15,14 +15,14 @@ Many new updates in the Shrota Language repository.
 Documentation update in com.eeshvardasikcm.shrota-lang. 
 The connection between baseball lot systems modeling and shrota language based time management uses good rest and ayurveda. 
 
-## Eeshvar Das Google Play Apps moving into Android 14 Beta
-Shrota Considerate, Graha, and Vitae are moving into Android 14 beta.
-These Eeshvar Das Google Play app will only be available for Android 14 beta testers.
-
 ## eeshvardasikcm GitHub Sponsorship 
 GitHub Sponsorship is a new feature that I am appying for from GitHub.
 Sponsors will be able to participate with my code writing.
 Sponsors will also be able to direct my code writing given their specific interests.
+
+## Eeshvar Das Google Play Apps moving into Android 14 Beta
+Shrota Considerate, Graha, and Vitae are moving into Android 14 beta.
+These Eeshvar Das Google Play app will only be available for Android 14 beta testers.
 
 ### Shrota Considerate
 Shrota Considerate has the package name com.eeshvardasikcm.shrotaconsiderate.
