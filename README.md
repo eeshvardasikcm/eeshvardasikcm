@@ -2,7 +2,17 @@
 
 I am Eeshvar Das and I am developing *Shrota*, an Android app for Google Play.
 
-## New with eeshvardasikcm Github, shrota-dev (Shrota Development)
+## New with eeshvardasikcm Github
+Private repository access has been restricted.
+I am no longer offering access to my private repositories.
+Maybe in the future, this feature will return.
+After starting to work with Google Carbon Project,
+it doesn't make sense to try to manage repository sales.
+No one purchased access anyway.
+No one should be affected by these changes.
+No one except myself has access to my private repositories.
+
+## shrota-dev (Shrota Development)
 shrota-dev repository is active, public, open source,
 and part of my eeshvardasikcm GitHub.
 I am welcoming the GitHub community to get involved in my new technology,
