@@ -3,7 +3,15 @@
 I am Eeshvar Das and I am developing *Shrota*, an Android app for Google Play.
 
 ## New with eeshvardasikcm Github
-Private repository access has been restricted.
+
+I have been narrowing the scope of my development activities.
+
+### Carbon Project
+
+I have increased the amount of time I am spending working on
+Google's Carbon Project. I am Community Contributor.
+
+## Private repository access has been restricted
 I am no longer offering access to my private repositories.
 Maybe in the future, this feature will return.
 After starting to work with Google Carbon Project,
