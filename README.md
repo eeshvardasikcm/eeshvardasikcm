@@ -22,6 +22,10 @@ I will be moving the RoK guide content to a different location like my website.
 I am not playing RoK for more than 10 minutes to a half hour a day.
 My playing time on RoK will be reducing even more.
 
+I am actively doing a long term Ayurvedic panchakarma routine.
+The panchakarma is reduced to a smaller set of pancgakarma activities that can be done for 6-18 months.
+Some periods of increased adherence to a full Ayurvedic panchakarma are done up to twice a year.
+
 ### Carbon Project
 
 I have increased the amount of time I am spending working on
