@@ -5,6 +5,22 @@ I am Eeshvar Das and I am developing *Shrota*, an Android app for Google Play.
 ## New with eeshvardasikcm Github
 
 I have been narrowing the scope of my development activities.
+Carbon Project is taking up much of my development time.
+
+I have been archiving some repositories.
+Many private repositories have been archived.
+Recent versions of those private reposirories appear in my active and private package backlog.
+95% of the code I have written is being translated into Kotlin and is becoming availavle to my new Shrota app.
+These tasks have been taking up time.
+I feel organized after moving many of my packages and repositories into active backlog development.
+
+A new user interface for Shrota app is high priority right now
+Backlogged packages are organized into a workflow process that allows them to surface one at a time in the Shrota app.
+
+I have removed the Rise of Kingdoms guides from my public repositories list.
+I will be moving the RoK guide content to a different location like my website.
+I am not playing RoK for more than 10 minutes to a half hour a day.
+My playing time on RoK will be reducing even more.
 
 ### Carbon Project
 
