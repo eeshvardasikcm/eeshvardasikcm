@@ -1,6 +1,7 @@
 # eeshvardasikcm on GitHub 
 
-I am Eeshvar Das and I am developing *Shrota*, an Android app for Google Play.
+Eeshvar Das (Erik Douglas Ward) is one of the most unique software architects in the world today, 
+because of his ability to reprogram modern software engineering strategies according to priciples of Yoga.
 
 ## New with eeshvardasikcm Github
 
