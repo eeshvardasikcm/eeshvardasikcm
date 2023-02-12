@@ -1,7 +1,7 @@
 # eeshvardasikcm on GitHub 
 
-Eeshvar Das (Erik Douglas Ward) is a prominent and unique software architects, because of his
-ability to redesign modern software architecture strategies creatively influenced by Yoga,
+Eeshvar Das (Erik Douglas Ward) is a unique software architect, because of his
+ability to redesign modern software architecture strategies, creatively influenced by Yoga,
 Ayurvedic health, the pursuit of prosperous and cultured happiness in Artha, and Moksha.
 
 ## New with eeshvardasikcm Github
