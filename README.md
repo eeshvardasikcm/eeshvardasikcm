@@ -6,13 +6,9 @@ Ayurvedic health, the pursuit of prosperous and cultured happiness in Artha, and
 
 ## New with eeshvardasikcm Github
 
-[![Shrota app logo video thumb](https://user-images.githubusercontent.com/96601374/218534141-caecb34c-a104-402b-914f-d3dbb9805898.png)](https://youtu.be/6iiZ94tPjOU)
+[![Shrota app logo video](https://user-images.githubusercontent.com/96601374/218534141-caecb34c-a104-402b-914f-d3dbb9805898.png)](https://youtu.be/6iiZ94tPjOU)
 
-[Shrota app logo]
-
-![Shrota app logo video thumb](https://user-images.githubusercontent.com/96601374/218534141-caecb34c-a104-402b-914f-d3dbb9805898.png)
-
-[Shrota app logo](https://youtu.be/6iiZ94tPjOU)
+[Shrota app logo video](https://youtu.be/6iiZ94tPjOU)
 
 Sevaware licensing created as a fork from my Veganware licensing.
 
