@@ -38,6 +38,12 @@ Some periods of increased adherence to a full Ayurvedic panchakarma are done up 
 I have increased the amount of time I am spending working on
 Google's Carbon Project. I am Community Contributor.
 
+I wouldn't stop working for Carbon Project unless I received
+a one time payment of no less than $5M. Hopefully, Carbon
+Project can use my help for some time. I am grateful for the
+opportunity to be a community contributor. Carbon Project is
+the best opportunity available for my situation right now.
+
 ## Private repository access has been restricted
 I am no longer offering access to my private repositories.
 Maybe in the future, this feature will return.
