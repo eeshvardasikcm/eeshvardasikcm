@@ -71,6 +71,10 @@ GitHub Sponsorship is a new feature that I am appying for from GitHub.
 Sponsors will be able to participate with my code writing.
 Sponsors will also be able to direct my code writing given their specific interests.
 
+### Civil Rights
+
+I am fighting for civil rights in Las Vegas, Nevada. Many others in Las Vegas have allowed the Vegas government to steal their liberties away from them in the name of gambling and illicit sex. I will not allow the government of Las Vegas to get away with forcing me to work without pay. I am pursuing some government employees and government officials by filing in the Supreme Court of Nevada. I want my basic civil rights back. The Las Vegas government refuses to allow me to move away to a safer place. I am repeatedly forced to work without pay, even though I did not commit any crime.
+
 ## Eeshvar Das Google Play Apps moving into Android 14 Beta
 Shrota Considerate, Graha, and Vitae are moving into Android 14 beta.
 These Eeshvar Das Google Play app will only be available for Android 14 beta testers.
