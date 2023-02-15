@@ -80,11 +80,12 @@ Sponsors will also be able to direct my code writing given their specific intere
 
 I am fighting for civil rights in Las Vegas, Nevada.
 Many others in Las Vegas have allowed the Vegas government to steal their liberties away from them in the name of gambling and illicit sex.
-I will not allow the government of Las Vegas to get away with forcing me to work without pay.
+I will not allow the government of Las Vegas to get away with forcing me to work involuntarily without pay.
 I am pursuing some government employees and government officials by filing in the Supreme Court of Nevada.
 I want my basic civil rights back.
 The Las Vegas government does not allow me to move away from Vegas to a safer place.
-I am repeatedly forced to work without pay, even though I did not commit any crime.
+I am repeatedly forced to work involuntarily without pay,
+even though I have never committed a crime.
 
 I was born in Nevada and raised in Las Vegas. Others like me have suffered greatly. I want to fight for my civil rights.
 
