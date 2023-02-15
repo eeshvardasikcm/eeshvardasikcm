@@ -44,7 +44,7 @@ Project can use my help for some time. I am grateful for the
 opportunity to be a community contributor. Carbon Project is
 the best opportunity available for my situation right now.
 
-I am committed to Carbon Project at least until 2024 with.
+I am committed to Carbon Project at least until 2024.
 No better option has been offered to me. It's possible I may
 stay with Carbon Project at least until version 1.0 is
 released around 2025.
