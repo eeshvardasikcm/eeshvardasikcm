@@ -6,6 +6,10 @@ Ayurvedic health, the pursuit of prosperous and cultured happiness in Artha, and
 
 ## New with eeshvardasikcm Github
 
+### Shrota Project 
+
+[Shrota Project](https://github.com/eeshvardasikcm?tab=projects)
+
 [![Shrota app logo video](https://user-images.githubusercontent.com/96601374/218534141-caecb34c-a104-402b-914f-d3dbb9805898.png)](https://youtu.be/6iiZ94tPjOU)
 [Shrota app logo video](https://youtu.be/6iiZ94tPjOU)
 
