@@ -16,16 +16,17 @@ Sevaware licensing created as a fork from my Veganware licensing.
 
 I have been narrowing the scope of my development activities.
 Carbon Project is taking up much of my development time.
+Many of my development tasks are meant for simplifying contributions to carbon project.
 
 I have been archiving some repositories.
 Many private repositories have been archived.
 Recent versions of those private reposirories appear in my active and private package backlog.
-95% of the code I have written is being translated into Kotlin and is becoming availavle to my new Shrota app.
+95% of the code I have written is being translated into Kotlin and is becoming availavle to my new AyurProject app.
 These tasks have been taking up time.
 I feel organized after moving many of my packages and repositories into active backlog development.
 
-A new user interface for Shrota app is high priority right now
-Backlogged packages are organized into a workflow process that allows them to surface one at a time in the Shrota app.
+A new user interface for AyurProject app is high priority right now
+Backlogged packages are organized into a workflow process that allows them to surface one at a time in the AyurProject app.
 
 I have removed the Rise of Kingdoms guides from my public repositories list.
 I will be moving the RoK guide content to a different location like my website.
@@ -33,7 +34,7 @@ I am not playing RoK for more than 10 minutes to a half hour a day.
 My playing time on RoK will be reducing even more.
 
 I am actively doing a long term Ayurvedic panchakarma routine.
-The panchakarma is reduced to a smaller set of pancgakarma activities that can be done for 6-18 months.
+The panchakarma is reduced to a smaller set of panchakarma activities that can be done for 6-18 months.
 Some periods of increased adherence to a full Ayurvedic panchakarma are done up to twice a year.
 
 ### Carbon Project
@@ -47,12 +48,13 @@ Project can use my help for some time. I am grateful for the
 opportunity to be a community contributor. Carbon Project is
 the best opportunity available for my situation right now.
 
-I am committed to Carbon Project at least until 2024.
+I am dedicated to Carbon Project at least until 2024.
 No better option has been offered to me. It's possible I may
 stay with Carbon Project at least until version 1.0 is
 released around 2025.
 
 ## Private repository access has been restricted
+
 I am no longer offering access to my private repositories.
 Maybe in the future, this feature will return.
 After starting to work with Google Carbon Project,
@@ -62,6 +64,7 @@ No one should be affected by these changes.
 No one except myself has access to my private repositories.
 
 ## shrota-dev (Shrota Development)
+
 shrota-dev repository is active, public, open source,
 and part of my eeshvardasikcm GitHub.
 I am welcoming the GitHub community to get involved in my new technology,
@@ -69,10 +72,10 @@ the Shrota Language and the Shrota app being made for Google Play Store,
 supporting Android 12+ on various Google Play supported decice types.
 https://github.com/eeshvardasikcm/shrota-dev
 
-## shrota-lang (Shrota Language)
-Many new updates in the Shrota Language repository.
-Documentation update in com.eeshvardasikcm.shrota-lang. 
-The connection between baseball lot systems modeling and shrota language based time management uses good rest and ayurveda. 
+## AyurProject-lang (AyurProject Language)
+Many new updates in the AyurProject Language repository.
+Documentation update in com.eeshvardasikcm.ayurproject-lang. 
+The connection between baseball lot systems modeling and ayurproject-lang based time management uses good rest and ayurveda. 
 
 ## eeshvardasikcm GitHub Sponsorship 
 GitHub Sponsorship is a new feature that I am appying for from GitHub.
@@ -82,7 +85,7 @@ Sponsors will also be able to direct my code writing given their specific intere
 ### Civil Rights
 
 I am fighting for civil rights in Las Vegas, Nevada.
-Many others in Las Vegas have allowed the Vegas government to steal their liberties away from them in the name of gambling and illicit sex.
+Many others in Las Vegas have allowed the Vegas government to steal their liberties away from them in the name of gambling, illicit sex and tourism.
 I will not allow the government of Las Vegas to get away with forcing me to work involuntarily without pay.
 I am pursuing some government employees and government officials by filing in the Supreme Court of Nevada.
 I want my basic civil rights back.
@@ -92,24 +95,15 @@ even though I have never committed a crime.
 
 I was born in Nevada and raised in Las Vegas. Others like me have suffered greatly. I want to fight for my civil rights.
 
-## Eeshvar Das Google Play Apps moving into Android 14 Beta
-Shrota Considerate, Graha, and Vitae are moving into Android 14 beta.
-These Eeshvar Das Google Play app will only be available for Android 14 beta testers.
+## Original Eeshvar Das Google Play Apps deprecated
+
+Which apps are deprecated.
+Shrota Considerate, Graha, Vitae, and Shrota are deprecated.
 
 ### Shrota archive
 
-
-
-### Shrota Considerate
-Shrota Considerate has the package name com.eeshvardasikcm.shrotaconsiderate.
-This package name causes _clang_ to complain.
-On the Android home screen,
-Shrota Considerate app is labeled 'Shrota Co...'.
-The Shrota Considerate _stable_ development is moving to the Shrota app.
-#### Google Calendar Compatibility
-- An Early look at Shrota Considerate App Google Calendar Integration #21
-https://github.com/eeshvardasikcm/shrota-lang/issues/21
-Google Calendar Compatibility development is also transferring into the _Shrota_ app.
+[![Shrota app logo video](https://user-images.githubusercontent.com/96601374/218534141-caecb34c-a104-402b-914f-d3dbb9805898.png)](https://youtu.be/6iiZ94tPjOU)
+[Shrota app logo video](https://youtu.be/6iiZ94tPjOU)
 
 ### Eeshvar Das (@eeshvardasikcm, Erik Douglas Ward)
 
