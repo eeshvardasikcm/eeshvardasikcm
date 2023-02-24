@@ -23,6 +23,19 @@ mistakes in this Google library
 and will be able to effectively
 make improvements to this Google library.
 
+accompanist is the best opportunity I have
+for achieving the incoming deserve.
+
+I will not stop working toward becoming
+an act of contributor to the accompanist
+library unless somebody were to give me
+$5 million.
+
+I'm a very skilled person and
+that $5 million is the value I'm putting
+on forcing any type of redirection
+of my desires and free will.
+
 ### Carbon Project update
 
 carbon project desires to have contributors
