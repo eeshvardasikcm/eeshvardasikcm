@@ -6,6 +6,62 @@ Ayurvedic health, the pursuit of prosperous and cultured happiness in Artha, and
 
 ## New with eeshvardasikcm Github
 
+### Google Jetpack Compose Accompaniast
+
+I have forked the jetpack compose,
+accompaniast.
+
+I am certain that this project will be
+more compatible with my current workflow.
+
+It will take some time for me to incorporate
+the current accompaniest work into
+My workflow.
+
+I'm certain that I will start seeing
+mistakes in this Google library
+and will be able to effectively
+make improvements to this Google library.
+
+### Carbon Project update
+
+carbon project desires to have contributors
+that are already capable of writing
+C++ very quickly.
+
+because of my work injury, I am not currently
+able to write C++ very quickly.
+
+I just purchased a brand new PC because
+I thought that would help me become
+faster writing c++.
+
+if I had money it would be easier
+to get access to food and basic
+comforts that C++ developers
+are accustomed to.
+
+because I'm a victim of civil rights
+and have a disability, I am not
+writing C++ at a sufficient rate
+for carbon project currently.
+
+I will probably try to connect with some other
+Google repository and make relevant
+commits in Kotlin language.
+
+Kotlin language does not require
+as much physical strength and
+code typing a C++ does.
+
+part of my AyurProject is to
+start writing some C++.
+
+Hopefully carbon project will be able
+to allow me to contribute
+after I have incorporated C++
+into my normal workflow.
+
 ### AyurProject 
 
 [AyurProject](https://github.com/eeshvardasikcm?tab=projects)
@@ -40,7 +96,8 @@ Some periods of increased adherence to a full Ayurvedic panchakarma are done up 
 ### Carbon Project
 
 I have increased the amount of time I am spending working on
-Google's Carbon Project. I am Community Contributor.
+Google's Carbon Project. I am wanting
+to be a Community Contributor.
 
 I wouldn't stop working for Carbon Project unless I received
 a one time payment of no less than $5M. Hopefully, Carbon
