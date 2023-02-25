@@ -106,23 +106,6 @@ I am actively doing a long term Ayurvedic panchakarma routine.
 The panchakarma is reduced to a smaller set of panchakarma activities that can be done for 6-18 months.
 Some periods of increased adherence to a full Ayurvedic panchakarma are done up to twice a year.
 
-### Carbon Project
-
-I have increased the amount of time I am spending working on
-Google's Carbon Project. I am wanting
-to be a Community Contributor.
-
-I wouldn't stop working for Carbon Project unless I received
-a one time payment of no less than $5M. Hopefully, Carbon
-Project can use my help for some time. I am grateful for the
-opportunity to be a community contributor. Carbon Project is
-the best opportunity available for my situation right now.
-
-I am dedicated to Carbon Project at least until 2024.
-No better option has been offered to me. It's possible I may
-stay with Carbon Project at least until version 1.0 is
-released around 2025.
-
 ## Private repository access has been restricted
 
 I am no longer offering access to my private repositories.
