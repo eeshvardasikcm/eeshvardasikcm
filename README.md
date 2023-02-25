@@ -6,7 +6,7 @@ Ayurvedic health, the pursuit of prosperous and cultured happiness in Artha, and
 
 ## New with eeshvardasikcm Github
 
-### Google Jetpack Compose Accompaniast
+### Google Jetpack Compose Accompanist 
 
 I have forked the jetpack compose,
 accompaniast.
