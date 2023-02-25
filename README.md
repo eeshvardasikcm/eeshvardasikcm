@@ -32,7 +32,7 @@ library unless somebody were to give me
 $15 million.
 
 I'm a very skilled person and
-that $5 million is the value I'm putting
+that price is the value I'm putting
 on forcing any type of redirection
 of my desires and free will.
 
