@@ -6,42 +6,8 @@ Ayurvedic health, the pursuit of prosperous and cultured happiness in Artha, and
 
 ## New with eeshvardasikcm Github
 
-### Google Jetpack Compose Accompanist 
-
-I have forked the jetpack compose,
-accompanist.
-
-I am certain that this project will be
-more compatible with my current workflow.
-
-It will take some time for me to incorporate
-the current accompaniest work into
-My workflow.
-
-I'm certain that I will start seeing
-mistakes in this Google library
-and will be able to effectively
-make improvements to this Google library.
-
-accompanist is the best opportunity I have
-for achieving the incoming deserve.
-
-I will not stop working toward becoming
-an active contributor to the accompanist
-library unless somebody were to give me
-$15 million, or I find an opportunity
-that is better for me.
-
-I'm a very skilled person and
-that price is the value I'm putting
-on forcing any type of redirection
-of my desires and free will.
-
-I am dedicated at least until 2024
-to focusing my major cooperative efforts
-toward becoming an active contributor
-to this accompanist jetpack
-compose library.
+I will be looking for a new place to
+contribute here on github.
 
 ### Carbon Project update
 
