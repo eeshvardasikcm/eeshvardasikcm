@@ -67,25 +67,31 @@ Kotlin language does not require
 as much physical strength and
 code typing a C++ does.
 
-part of my AyurProject is to
-start writing some C++.
-
-Hopefully carbon project will be able
-to allow me to contribute
-after I have incorporated C++
-into my normal workflow.
-
 ### AyurProject 
 
 [AyurProject](https://github.com/eeshvardasikcm?tab=projects)
+
+part of my AyurProject is to
+start writing some C++.
+
+I will not be depending on
+carbon project and carbon language.
+
+I will be writing my own C++
+implementation for AyurProject.
+
+I am separating AyurProject from
+carbon project for at least one year.
+all work that I do for at least one year
+will not be part of carbon project.
+I will also not be using anything
+from carbon project over the next year.
 
 ### Shrota name changed to AyurProject
 
 Sevaware licensing created as a fork from my Veganware licensing.
 
 I have been narrowing the scope of my development activities.
-Carbon Project is taking up much of my development time.
-Many of my development tasks are meant for simplifying contributions to carbon project.
 
 I have been archiving some repositories.
 Many private repositories have been archived.
@@ -94,7 +100,7 @@ Recent versions of those private reposirories appear in my active and private pa
 These tasks have been taking up time.
 I feel organized after moving many of my packages and repositories into active backlog development.
 
-A new user interface for AyurProject app is high priority right now
+A new user interface for AyurProject app is high priority right now.
 Backlogged packages are organized into a workflow process that allows them to surface one at a time in the AyurProject app.
 
 I have removed the Rise of Kingdoms guides from my public repositories list.
@@ -102,7 +108,7 @@ I will be moving the RoK guide content to a different location like my website.
 I am not playing RoK for more than 10 minutes to a half hour a day.
 My playing time on RoK will be reducing even more.
 
-I am actively doing a long term Ayurvedic panchakarma routine.
+I am actively doing a long term Ayurvedic panchakarma style routine.
 The panchakarma is reduced to a smaller set of panchakarma activities that can be done for 6-18 months.
 Some periods of increased adherence to a full Ayurvedic panchakarma are done up to twice a year.
 
