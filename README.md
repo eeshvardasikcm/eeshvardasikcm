@@ -27,14 +27,21 @@ accompanist is the best opportunity I have
 for achieving the incoming deserve.
 
 I will not stop working toward becoming
-an act of contributor to the accompanist
+an active contributor to the accompanist
 library unless somebody were to give me
-$15 million.
+$15 million, or I find an opportunity
+that is better for me.
 
 I'm a very skilled person and
 that price is the value I'm putting
 on forcing any type of redirection
 of my desires and free will.
+
+I am dedicated at least until 2024
+to focusing my major cooperative efforts
+toward becoming an active contributor
+to this accompanist jetpack
+compose library.
 
 ### Carbon Project update
 
