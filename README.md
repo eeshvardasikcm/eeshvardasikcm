@@ -27,10 +27,21 @@ to get access to food and basic
 comforts that C++ developers
 are accustomed to.
 
-because I'm a victim of civil rights
-and have a disability, I am not
-writing C++ at a sufficient rate
+because I'm a victim of a civil rights
+case in Nevada and have a disability,
+I am not writing C++ at a sufficient rate
 for carbon project currently.
+I understand the decision made by a carbon
+project to consider my C++ coding too slow.
+
+The funny thing is that my C++ is fast enough
+to likely finish AyurProject language
+written in C++ before carbon project
+finishes their first version of carbon language.
+
+My implementation of a language with a
+C++ toolchain quite a bit more simple
+then carbon language.
 
 I will probably try to connect with some other
 Google repository and make relevant
