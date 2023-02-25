@@ -134,15 +134,10 @@ I was born in Nevada and raised in Las Vegas. Others like me have suffered great
 Which apps are deprecated.
 Shrota Considerate, Graha, Vitae, and Shrota are deprecated.
 
-### Shrota archive
-
-[![Shrota app logo video](https://user-images.githubusercontent.com/96601374/218534141-caecb34c-a104-402b-914f-d3dbb9805898.png)](https://youtu.be/6iiZ94tPjOU)
-[Shrota app logo video](https://youtu.be/6iiZ94tPjOU)
-
 ### Eeshvar Das (@eeshvardasikcm, Erik Douglas Ward)
 
 - 👋 Hi, I’m @eeshvardasikcm
-- 👀 I’m interested in baseball, systems modeling, android app, java
+- 👀 I’m interested in baseball, systems modeling, android app development, Kotlin, C++
 - 🌱 I’m currently learning new heights in Android App development with Google Cloud Platform integrated
 - 💞️ I’m looking to receive sponsorship for this repository
 - 📫 How to reach me post an issue on my repository or follow me on Instagram @eeshvardasikcm
