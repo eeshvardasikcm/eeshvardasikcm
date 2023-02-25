@@ -116,25 +116,6 @@ No one purchased access anyway.
 No one should be affected by these changes.
 No one except myself has access to my private repositories.
 
-## shrota-dev (Shrota Development)
-
-shrota-dev repository is active, public, open source,
-and part of my eeshvardasikcm GitHub.
-I am welcoming the GitHub community to get involved in my new technology,
-the Shrota Language and the Shrota app being made for Google Play Store,
-supporting Android 12+ on various Google Play supported decice types.
-https://github.com/eeshvardasikcm/shrota-dev
-
-## AyurProject-lang (AyurProject Language)
-Many new updates in the AyurProject Language repository.
-Documentation update in com.eeshvardasikcm.ayurproject-lang. 
-The connection between baseball lot systems modeling and ayurproject-lang based time management uses good rest and ayurveda. 
-
-## eeshvardasikcm GitHub Sponsorship 
-GitHub Sponsorship is a new feature that I am appying for from GitHub.
-Sponsors will be able to participate with my code writing.
-Sponsors will also be able to direct my code writing given their specific interests.
-
 ### Civil Rights
 
 I am fighting for civil rights in Las Vegas, Nevada.
