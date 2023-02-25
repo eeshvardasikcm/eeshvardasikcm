@@ -9,7 +9,7 @@ Ayurvedic health, the pursuit of prosperous and cultured happiness in Artha, and
 ### Google Jetpack Compose Accompanist 
 
 I have forked the jetpack compose,
-accompaniast.
+accompanist.
 
 I am certain that this project will be
 more compatible with my current workflow.
