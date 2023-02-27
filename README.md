@@ -9,7 +9,25 @@ Ayurvedic health, the pursuit of prosperous and cultured happiness in Artha, and
 I will be looking for a new place to
 contribute here on github.
 
-### Carbon Project update
+### Volunteer work for Carbon Project completed 
+
+I successfully conducted dialogue with
+lead members of the Carbon project
+and was actively involved in discussion
+channels with several other members
+of the carbon project community.
+
+I did work to help design a road map
+as a somewhat managerial process that
+would be used to create a regression
+testing system, specifically
+concerning the handling of string literals.
+
+I did significant amounts of research
+into technologies that I had previously
+not worked closely with to be able to
+accomplish these managerial style
+objectives.
 
 carbon project desires to have contributors
 that are already capable of writing
