@@ -142,4 +142,4 @@ I was born in Nevada and raised in Las Vegas. Others like me have suffered great
 Which apps are deprecated.
 Shrota Considerate, Graha, Vitae, and Shrota are deprecated.
 
-- Eeshvar Das (@eeshvardasikcm, Erik Douglas Ward)
+_ Eeshvar Das (@eeshvardasikcm, Erik Douglas Ward)
