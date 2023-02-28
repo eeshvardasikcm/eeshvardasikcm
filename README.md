@@ -6,8 +6,32 @@ Ayurvedic health, the pursuit of prosperous and cultured happiness in Artha, and
 
 ## New with eeshvardasikcm Github
 
-I will be looking for a new place to
-contribute here on github.
+I have been contacting some people
+in Seattle where I used to live
+for a long time and may possibly
+find some volunteer work for a
+good cause over in higher conscious
+like-minded communities in Seattle.
+
+### C++ implementation of AyurProject
+
+It turns out I can write C++ pretty fast.
+I had planned to sit down over the
+next couple of weeks to write some
+C++ for carbon project, but carbon project
+decided I didn't quite meet their timeline
+fast enough just last week.
+
+I just sat down and wrote a whole parsing
+algorithm that parses addition operator
+for my AyurProject language.
+
+I split the implementation into several
+functions, so the parsing of substraction
+and so on, even more quickly.
+
+It is nice to have the reduced stress
+if not doing work for somebody else.
 
 ### Volunteer work for Carbon Project completed 
 
