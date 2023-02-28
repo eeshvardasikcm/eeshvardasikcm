@@ -31,7 +31,9 @@ functions, so the parsing of substraction
 and so on, even more quickly.
 
 It is nice to have the reduced stress
-if not doing work for somebody else.
+of not doing work for somebody else.
+
+My new PC made all the difference.
 
 ### Volunteer work for Carbon Project completed 
 
