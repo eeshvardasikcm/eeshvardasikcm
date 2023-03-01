@@ -118,14 +118,19 @@ My implementation of a language with a
 C++ toolchain quite a bit more simple
 then carbon language.
 
-I will probably try to connect with some other
-Google repository and make relevant
-commits in Kotlin language after
-a year or two goes by. 
+I am so baffled at the way I was not
+treated kindly after all of the volunteer
+work I did for Carbon Project that I
+separated myself from anyone one at
+Google and every Google open source project. 
 
-Kotlin language does not require
-as much physical strength and
-code typing a C++ does.
+I don't want anything to do with Google
+open source projects for some time.
+
+It was nice feeling like my work was going to
+be a part of something I believed in, but
+I just need to distance myself from them
+after being mistreated like that.
 
 ### AyurProject 
 
