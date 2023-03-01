@@ -122,6 +122,18 @@ they would demand even more compliance,
 without giving sufficient time or
 discussion on the best way to do that.
 
+this is the first time I've ever
+try to contribute to a major open source
+project. everyone says that contributing
+to open source projects should be
+fun and enjoyable experience while
+volunteering your time to show off
+your skills and get noticed.
+
+I don't really think that this carbon
+project group of people is honoring
+the open source system very well.
+
 I did get a chance to work with these
 skilled developers and did learn some
 new things, but I really think Carbon
