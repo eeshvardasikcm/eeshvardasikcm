@@ -81,6 +81,11 @@ so I followed up within 48 hours of the
 message and did everything that
 the lead personnel asked me to do.
 
+so I'm not really certain why
+this Google carbon project management
+personnel would overnight decide to suddenly
+change everything and exclude me.
+
 I will never have anything to do with Carbon
 Project again after dedicating so many long
 hours working on Carbon Language, only
@@ -88,10 +93,21 @@ to be suddenly blocked out and excluded
 with no warning, legitimate explanation,
 or thank you.
 
-so I'm not really certain why
-this Google carbon project management
-personnel would overnight decide to suddenly
-change everything and exclude me.
+The personel at Carbon Project are not
+very good at communicating their thoughts.
+I followed all of their instructions to
+the letter, to the best of my abilities.
+
+Carbon Project advertise themselves as a
+community friendly project, but that's
+not really the experience I had. I felt
+stressed as if this was a paying job.
+
+I did get a chance to work with these
+skilled developers and did learn some
+new things, but I really think Carbon
+Project needs to work on their social
+skills and communication skills.
 
 The funny thing is that my C++ is fast enough
 to likely finish AyurProject language
