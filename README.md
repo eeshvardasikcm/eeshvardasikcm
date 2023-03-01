@@ -59,24 +59,35 @@ carbon project desires to have contributors
 that are already capable of writing
 C++ very quickly.
 
-because of my work injury, I am not currently
-able to write C++ very quickly.
+because of my work injury, It took me
+a couple of months of planning out this
+managerial process before my
+C++ coding became fast.
 
-I just purchased a brand new PC because
-I thought that would help me become
-faster writing c++.
+I just purchased a brand new PC,
+and that also helped make my C++
+coding become fast.
 
-if I had money it would be easier
-to get access to food and basic
-comforts that C++ developers
-are accustomed to.
+The lead personnel at Google carbon project
+never gave me any due dates or timelines.
+they actually said it's a long-term project
+that I'm working on.
 
-because I'm a victim of a civil rights
-case in Nevada and have a disability,
-I am not writing C++ at a sufficient rate
-for carbon project currently.
-I understand the decision made by a carbon
-project to consider my C++ coding too slow.
+suddenly I received a message from
+One of the leads saying that
+I had not completed the task on time.
+
+so I followed up within 48 hours of the
+message and did everything that
+the lead personnel asked me to do.
+
+After 48 hours, I haven't heard back from
+carbon project.
+
+so I'm not really certain why
+this Google carbon project management
+personnel would overnight decide to suddenly
+change everything and exclude me.
 
 The funny thing is that my C++ is fast enough
 to likely finish AyurProject language
@@ -89,7 +100,8 @@ then carbon language.
 
 I will probably try to connect with some other
 Google repository and make relevant
-commits in Kotlin language.
+commits in Kotlin language after
+a year or two goes by. 
 
 Kotlin language does not require
 as much physical strength and
