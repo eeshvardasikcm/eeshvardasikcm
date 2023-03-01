@@ -103,6 +103,25 @@ community friendly project, but that's
 not really the experience I had. I felt
 stressed as if this was a paying job.
 
+I was invited to join their discord server
+for purposes of discussing further
+about contributing to carbon project.
+I should have turned around and left
+without putting any more attention into
+carbon project after I found out
+that the atmosphere on the discord server
+discourages open and free communication.
+
+I kept trying to make adjustments
+to fit in understanding that
+some of these people are very stressed
+working a very serious paying job,
+but every time I would make an adjust
+and try to accommodate their system,
+they would demand even more compliance,
+without giving sufficient time or
+discussion on the best way to do that.
+
 I did get a chance to work with these
 skilled developers and did learn some
 new things, but I really think Carbon
