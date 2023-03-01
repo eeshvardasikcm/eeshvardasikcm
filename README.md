@@ -75,16 +75,49 @@ that I'm working on.
 
 suddenly I received a message from
 One of the leads saying that
-I had not completed the task on time.
+I had not completed the task on time
+and that there was one small problem
+with one of my social media profiles.
+
+The lead personnel blocked me out
+of the carbon project because of
+those two reasons. they told me that
+if I correct the problems within
+48 hours, then it would not be an issue.
 
 so I followed up within 48 hours of the
-message and did everything that
+message and corrected everything that
 the lead personnel asked me to do.
 
-so I'm not really certain why
-this Google carbon project management
-personnel would overnight decide to suddenly
-change everything and exclude me.
+I think there was a problem with the
+discord app and it's possible that
+the message that the carbon leads
+sent to me was somehow not showing up
+on my discord app until quite a bit of
+time after the carbon project lead had
+send it to me.
+
+The carbon project lead was unforgiving
+and maintained the blocking penalty
+against me even after I corrected
+upon the request the issues they were
+talking about within 48 hours
+of receipt of their message.
+
+there is no writing in the document I signed
+and in the connected carbon project
+community contributor documentation
+that permits them to suddenly
+block me out like that. I really
+Don't know why they decided
+to do that.
+
+I think carbon project leads made a big
+mistake. I'm a very skilled and talented
+developer and devoted long hours
+to getting to the point where I could
+commit code to the carbon language
+at a sufficient rate.
 
 I will never have anything to do with Carbon
 Project again after dedicating so many long
@@ -117,14 +150,14 @@ to fit in understanding that
 some of these people are very stressed
 working a very serious paying job,
 but every time I would make an adjust
-and try to accommodate their system,
+and try to accommodate them,
 they would demand even more compliance,
 without giving sufficient time or
 discussion on the best way to do that.
 
 this is the first time I've ever
-try to contribute to a major open source
-project. everyone says that contributing
+tried to contribute to a major open source
+project. people say that contributing
 to open source projects should be
 fun and enjoyable experience while
 volunteering your time to show off
@@ -144,6 +177,17 @@ The funny thing is that my C++ is fast enough
 to likely finish AyurProject language
 written in C++ before carbon project
 finishes their first version of carbon language.
+
+upon the request of the leads to
+expedite my C++ code writing, I
+finally you got into my new PC and
+also purchased a subscription to
+a professional integrated development
+environment that could handle
+carbon language development.
+
+All of the preparation steps i took over
+
 
 My implementation of a language with a
 C++ toolchain quite a bit more simple
