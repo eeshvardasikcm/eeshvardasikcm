@@ -163,6 +163,58 @@ be a part of something I believed in, but
 I just need to distance myself from them
 after being mistreated like that.
 
+carbon project is inviting me to come back
+and continue coding, if I can show that I have
+increased coding speeds and C++,
+but I'm just not going to agree to that.
+
+I don't really think that those terms
+and the other things I mentioned match with
+the community guidelines that define
+how the carbon project community is supposed
+to be respected and honored as a
+very important and integral part
+of the carbon project.
+
+I just don't think that the carbon project
+lead personnel are honoring the carbon
+project community members like myself
+well enough as they promised they would.
+
+I think it would be unsafe for me to
+continue having anything to do with
+carbon project. I don't want them to
+take any adverse action against me.
+
+I'm extending my safety net beyond only
+carbon project and I'm creating a plan
+to have zero contact with any Google employee
+and zero contact with any Google open
+source project for at least one year.
+
+this is my plan that I came up with
+for my own safety, because I believe
+Google and I believe in their employee
+policies that protect employees
+against abuse and discrimination.
+
+I think maybe that the carbon project
+personnel are not respecting non Google
+employees. people that are helping them that
+are not Google employees appear to
+be the target of a lack of consideration.
+
+I still hope that one day I can be a Google
+employee and I'm taking a safe route
+to have nothing to do with Google projects
+for at least one year by my own decision.
+
+I will be using Google services
+and software that has already been finished
+and released as a production result
+so that way I can continue
+creating Android apps.
+
 ### AyurProject 
 
 [AyurProject](https://github.com/eeshvardasikcm?tab=projects)
