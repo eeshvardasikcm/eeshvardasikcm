@@ -95,7 +95,7 @@ the message that the carbon leads
 sent to me was somehow not showing up
 on my discord app until quite a bit of
 time after the carbon project lead had
-send it to me.
+sent it to me.
 
 The carbon project lead was unforgiving
 and maintained the blocking penalty
@@ -186,8 +186,33 @@ a professional integrated development
 environment that could handle
 carbon language development.
 
-All of the preparation steps i took over
+when I finally got in and started developing
+C++ on a machine that's capable of
+handling modern development, I was surprised
+and how fast I could write effective
+and robust C++ that passed
+inspection tests.
 
+I'm writing C++ at a faster rate
+then I write Kotlin code right now.
+It was in large part due to the past
+few months that I spent preparing myself
+and my development environment to
+be able to sit down and
+accomplish such fast development speeds
+when the time was right.
+
+I believe I set a very good road map
+for myself and spent a good amount of time
+researching understanding the
+long-term objective that the carbon
+project leads had assigned to me.
+
+so I guess I'll just develop my own
+AyurProject language. The language I am
+developing is not going to depend on
+llvm and other acceleration technologies
+Right now.
 
 My implementation of a language with a
 C++ toolchain quite a bit more simple
@@ -195,25 +220,29 @@ then carbon language.
 
 I am so baffled at the way I was not
 treated kindly after all of the volunteer
-work I did for Carbon Project that I
-separated myself from anyone one at
+work I did for Carbon Project. As a result,
+I separated myself from everyone at
 Google and every Google open source project. 
 
 I don't want anything to do with Google
 open source projects for some time.
+I think this is the best decision
+for my own protection. there may be some
+other surprises if I start working
+on another Google open source project
+again in the near future.
+
+I feel safe with at least one or more years
+going by before I give it another try
+working with Google.
 
 It was nice feeling like my work was going to
 be a part of something I believed in, but
 I just need to distance myself from them
 after being mistreated like that.
 
-carbon project is inviting me to come back
-and continue coding, if I can show that I have
-increased coding speeds and C++,
-but I'm just not going to agree to that.
-
-I don't really think that those terms
-and the other things I mentioned match with
+I don't really think their behavior 
+that I mentioned, matches with
 the community guidelines that define
 how the carbon project community is supposed
 to be respected and honored as a
@@ -225,33 +254,19 @@ lead personnel are honoring the carbon
 project community members like myself
 well enough as they promised they would.
 
-I think it would be unsafe for me to
-continue having anything to do with
-carbon project. I don't want them to
-take any adverse action against me.
+I believe in Google and I believe in
+their employee policies that protect
+employees against abuse and discrimination.
 
-I'm extending my safety net beyond only
-carbon project and I'm creating a plan
-to have zero contact with any Google employee
-and zero contact with any Google open
-source project for at least one year.
-
-this is my plan that I came up with
-for my own safety, because I believe
-Google and I believe in their employee
-policies that protect employees
-against abuse and discrimination.
+I don't want to go anywhere down that road
+with them right now. until I feel that
+I am in a more secure situation.
 
 I think maybe that the carbon project
 personnel are not respecting non Google
 employees. people that are helping them that
 are not Google employees appear to
 be the target of a lack of consideration.
-
-I still hope that one day I can be a Google
-employee and I'm taking a safe route
-to have nothing to do with Google projects
-for at least one year by my own decision.
 
 I will be using Google services
 and software that has already been finished
