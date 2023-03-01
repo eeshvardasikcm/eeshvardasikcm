@@ -13,6 +13,26 @@ find some volunteer work for a
 good cause over in higher conscious
 like-minded communities in Seattle.
 
+### AyurProject 
+
+[AyurProject](https://github.com/eeshvardasikcm?tab=projects)
+
+part of my AyurProject is to
+start writing some C++.
+
+I will not be depending on
+carbon project and carbon language.
+
+I will be writing my own C++
+implementation for AyurProject.
+
+I am separating AyurProject from
+carbon project for at least one year.
+all work that I do for at least one year
+will not be part of carbon project.
+I will also not be using anything
+from carbon project over the next year.
+
 ### C++ implementation of AyurProject
 
 It turns out I can write C++ pretty fast.
@@ -273,26 +293,6 @@ and software that has already been finished
 and released as a production result
 so that way I can continue
 creating Android apps.
-
-### AyurProject 
-
-[AyurProject](https://github.com/eeshvardasikcm?tab=projects)
-
-part of my AyurProject is to
-start writing some C++.
-
-I will not be depending on
-carbon project and carbon language.
-
-I will be writing my own C++
-implementation for AyurProject.
-
-I am separating AyurProject from
-carbon project for at least one year.
-all work that I do for at least one year
-will not be part of carbon project.
-I will also not be using anything
-from carbon project over the next year.
 
 ### Shrota name changed to AyurProject
 
