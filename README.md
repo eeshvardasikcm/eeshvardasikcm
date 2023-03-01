@@ -81,8 +81,12 @@ so I followed up within 48 hours of the
 message and did everything that
 the lead personnel asked me to do.
 
-After 48 hours, I haven't heard back from
-carbon project.
+I will never have anything to do with Carbon
+Project again after dedicating so many long
+hours working on Carbon Language, only
+to be suddenly blocked out and excluded
+with no warning, legitimate explanation,
+or thank you.
 
 so I'm not really certain why
 this Google carbon project management
