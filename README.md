@@ -77,7 +77,7 @@ channels with several other members
 of the carbon project community.
 
 I did work to help design a road map
-as a somewhat managerial process that
+as a self managerial process that
 would be used to create a regression
 testing system, specifically
 concerning the handling of string literals.
@@ -85,16 +85,12 @@ concerning the handling of string literals.
 I did significant amounts of research
 into technologies that I had previously
 not worked closely with to be able to
-accomplish these managerial style
-objectives.
-
-carbon project desires to have contributors
-that are already capable of writing
-C++ very quickly.
+accomplish managerial style objectives
+that would help me get the work done.
 
 because of my work injury, It took me
-a couple of months of planning out this
-managerial process before my
+a couple of months of planning out a
+self managing process before my
 C++ coding became fast.
 
 I just purchased a brand new PC,
@@ -107,76 +103,31 @@ they actually said it's a long-term project
 that I'm working on.
 
 suddenly I received a message from
-One of the leads saying that
-I had not completed the task on time
-and that there was one small problem
-with one of my social media profiles.
-
-The lead personnel blocked me out
-of the carbon project because of
-those two reasons. they told me that
-if I correct the problems within
-48 hours, then it would not be an issue.
+One of the leads. The lead personnel
+told me that they wanted me to correct
+some small problems within 48 hours.
 
 so I followed up within 48 hours of the
 message and corrected everything that
 the lead personnel asked me to do.
 
-I think there was a problem with the
-discord app and it's possible that
-the message that the carbon leads
-sent to me was somehow not showing up
-on my discord app until quite a bit of
-time after the carbon project lead had
-sent it to me.
-
-The carbon project lead was unforgiving
-and maintained the blocking penalty
-against me even after I corrected
-upon the request the issues they were
-talking about within 48 hours
-of receipt of their message.
-
-there is no writing in the document I signed
-and in the connected carbon project
-community contributor documentation
-that permits them to suddenly
-block me out like that. I really
-Don't know why they decided
-to do that.
-
-I think carbon project leads made a big
-mistake. I'm a very skilled and talented
+I'm a very skilled and talented
 developer and devoted long hours
 to getting to the point where I could
 commit code to the carbon language
 at a sufficient rate.
 
-I will never have anything to do with Carbon
-Project again after dedicating so many long
-hours working on Carbon Language, only
-to be suddenly blocked out and excluded
-with no warning, legitimate explanation,
-or thank you.
-
 The personel at Carbon Project are not
 very good at communicating their thoughts.
 I followed all of their instructions to
 the letter, to the best of my abilities.
-
-Carbon Project advertise themselves as a
-community friendly project, but that's
-not really the experience I had. I felt
-stressed as if this was a paying job.
+I felt stressed as if this was
+a paying job. It's completely volunteer
+without pay.
 
 I was invited to join their discord server
 for purposes of discussing further
 about contributing to carbon project.
-I should have turned around and left
-without putting any more attention into
-carbon project after I found out
-that the atmosphere on the discord server
-discourages open and free communication.
 
 I kept trying to make adjustments
 to fit in understanding that
@@ -185,26 +136,15 @@ working a very serious paying job,
 but every time I would make an adjust
 and try to accommodate them,
 they would demand even more compliance,
-without giving sufficient time or
-discussion on the best way to do that.
-
-this is the first time I've ever
-tried to contribute to a major open source
-project. people say that contributing
-to open source projects should be
-fun and enjoyable experience while
-volunteering your time to show off
-your skills and get noticed.
-
-I don't really think that this carbon
-project group of people is honoring
-the open source system very well.
+and my personal objectives just
+don't fit with being pressured to
+excel right now.
 
 I did get a chance to work with these
 skilled developers and did learn some
 new things, but I really think Carbon
-Project needs to work on their social
-skills and communication skills.
+Project became a little too fast
+paced for me.
 
 The funny thing is that my C++ is fast enough
 to likely finish AyurProject language
@@ -249,13 +189,7 @@ Right now.
 
 My implementation of a language with a
 C++ toolchain quite a bit more simple
-then carbon language.
-
-I am so baffled at the way I was not
-treated kindly after all of the volunteer
-work I did for Carbon Project. As a result,
-I separated myself from everyone at
-Google and every Google open source project. 
+than carbon language.
 
 I don't want anything to do with Google
 open source projects for some time.
@@ -272,20 +206,7 @@ working with Google.
 It was nice feeling like my work was going to
 be a part of something I believed in, but
 I just need to distance myself from them
-after being mistreated like that.
-
-I don't really think their behavior 
-that I mentioned, matches with
-the community guidelines that define
-how the carbon project community is supposed
-to be respected and honored as a
-very important and integral part
-of the carbon project.
-
-I just don't think that the carbon project
-lead personnel are honoring the carbon
-project community members like myself
-well enough as they promised they would.
+for my own safety.
 
 I believe in Google and I believe in
 their employee policies that protect
@@ -294,12 +215,6 @@ employees against abuse and discrimination.
 I don't want to go anywhere down that road
 with them right now. until I feel that
 I am in a more secure situation.
-
-I think maybe that the carbon project
-personnel are not respecting non Google
-employees. people that are helping them that
-are not Google employees appear to
-be the target of a lack of consideration.
 
 I will be using Google services
 and software that has already been finished
