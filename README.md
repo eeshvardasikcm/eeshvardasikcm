@@ -107,6 +107,11 @@ I believe in Google and I believe in
 their employee policies that protect
 employees against abuse and discrimination.
 
+I spent the last few months researching
+carbon project at Google and discussing with
+some of the developers involved with
+carbon project about their technologies.
+
 ### Shrota name changed to AyurProject
 
 Sevaware licensing created as a fork from my Veganware licensing.
