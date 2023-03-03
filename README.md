@@ -68,92 +68,10 @@ of not doing work for somebody else.
 
 My new PC made all the difference.
 
-### Volunteer work for Carbon Project completed 
+### My new PC and writing C++
 
-I successfully conducted dialogue with
-lead members of the Carbon project
-and was actively involved in discussion
-channels with several other members
-of the carbon project community.
-
-I did work to help design a road map
-as a self managerial process that
-would be used to create a regression
-testing system, specifically
-concerning the handling of string literals.
-
-I did significant amounts of research
-into technologies that I had previously
-not worked closely with to be able to
-accomplish managerial style objectives
-that would help me get the work done.
-
-because of my work injury, It took me
-a couple of months of planning out a
-self managing process before my
-C++ coding became fast.
-
-I just purchased a brand new PC,
-and that also helped make my C++
-coding become fast.
-
-The lead personnel at Google carbon project
-never gave me any due dates or timelines.
-they actually said it's a long-term project
-that I'm working on.
-
-suddenly I received a message from
-One of the leads. The lead personnel
-told me that they wanted me to correct
-some small problems within 48 hours.
-
-so I followed up within 48 hours of the
-message and corrected everything that
-the lead personnel asked me to do.
-
-I'm a very skilled and talented
-developer and devoted long hours
-to getting to the point where I could
-commit code to the carbon language
-at a sufficient rate.
-
-The personel at Carbon Project are not
-very good at communicating their thoughts.
-I followed all of their instructions to
-the letter, to the best of my abilities.
-I felt stressed as if this was
-a paying job. It's completely volunteer
-without pay.
-
-I was invited to join their discord server
-for purposes of discussing further
-about contributing to carbon project.
-
-I kept trying to make adjustments
-to fit in understanding that
-some of these people are very stressed
-working a very serious paying job,
-but every time I would make an adjust
-and try to accommodate them,
-they would demand even more compliance,
-and my personal objectives just
-don't fit with being pressured to
-excel right now.
-
-I did get a chance to work with these
-skilled developers and did learn some
-new things, but I really think Carbon
-Project became a little too fast
-paced for me.
-
-The funny thing is that my C++ is fast enough
-to likely finish AyurProject language
-written in C++ before carbon project
-finishes their first version of carbon language.
-
-upon the request of the leads to
-expedite my C++ code writing, I
-finally you got into my new PC and
+I
+finally got a my new PC and
 also purchased a subscription to
 a professional integrated development
 environment that could handle
@@ -175,13 +93,7 @@ be able to sit down and
 accomplish such fast development speeds
 when the time was right.
 
-I believe I set a very good road map
-for myself and spent a good amount of time
-researching understanding the
-long-term objective that the carbon
-project leads had assigned to me.
-
-so I guess I'll just develop my own
+I develop my own
 AyurProject language. The language I am
 developing is not going to depend on
 llvm and other acceleration technologies
@@ -191,36 +103,9 @@ My implementation of a language with a
 C++ toolchain quite a bit more simple
 than carbon language.
 
-I don't want anything to do with Google
-open source projects for some time.
-I think this is the best decision
-for my own protection. there may be some
-other surprises if I start working
-on another Google open source project
-again in the near future.
-
-I feel safe with at least one or more years
-going by before I give it another try
-working with Google.
-
-It was nice feeling like my work was going to
-be a part of something I believed in, but
-I just need to distance myself from them
-for my own safety.
-
 I believe in Google and I believe in
 their employee policies that protect
 employees against abuse and discrimination.
-
-I don't want to go anywhere down that road
-with them right now. until I feel that
-I am in a more secure situation.
-
-I will be using Google services
-and software that has already been finished
-and released as a production result
-so that way I can continue
-creating Android apps.
 
 ### Shrota name changed to AyurProject
 
