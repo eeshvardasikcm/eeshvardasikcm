@@ -163,8 +163,8 @@ I was born in Nevada and raised in Las Vegas. Others like me have suffered great
 ## app development. recent history
 
 - 2020, started conceptualizing clay pot maker game
-- 2021 Winter, created a hierarchy of concepts, goals, and objectives
-- 2021 Winter, moved hierarchy to Java package system in Android Studio
+- 2020, created a hierarchy of concepts, goals, and objectives
+- 2021, moved hierarchy to Java package system in Android Studio
 - 2021 Winter, started using GitHub to organize repositories
 - 2022 AyurProject, completely tracked project management on GitHub
 
