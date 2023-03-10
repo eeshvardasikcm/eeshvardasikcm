@@ -162,6 +162,7 @@ I was born in Nevada and raised in Las Vegas. Others like me have suffered great
 
 ## app development. recent history
 
+- 2019, created my own app development principles
 - 2020, started conceptualizing clay pot maker game
 - 2020, created a hierarchy of concepts, goals, and objectives
 - 2021, moved hierarchy to Java package system in Android Studio
