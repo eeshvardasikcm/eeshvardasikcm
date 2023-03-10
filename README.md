@@ -160,6 +160,14 @@ even though I have never committed a crime.
 
 I was born in Nevada and raised in Las Vegas. Others like me have suffered greatly. I want to fight for my civil rights.
 
+## app development. recent history
+
+- 2020, started conceptualizing clay pot maker game
+- 2021 Winter, created a hierarchy of concepts, goals, and objectives
+- 2021 spring, moved hierarchy to Java package system in Android Studio
+- 2021 spring, started using GitHub to organize repositories
+- 2022 AyurProject, completely tracked project management on GitHub
+
 ## Original Eeshvar Das Google Play Apps deprecated
 
 Which apps are deprecated.
