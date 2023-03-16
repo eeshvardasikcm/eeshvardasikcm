@@ -4,6 +4,26 @@ Eeshvar Das (Erik Douglas Ward) is a unique software architect, because of his
 ability to redesign modern software architecture strategies, creatively influenced by Yoga,
 Ayurvedic health, the pursuit of prosperous and cultured happiness in Artha, and Moksha.
 
+## The value of Eeshvar Das
+
+My AyurProject has great potential value as a new type of
+software that is created using Ayurveda as a foundation.
+AyurProject customers will benefit by AyurProject.
+
+Ayurveda as a foundation is the principle that will be used
+to guide customers into becoming capable of using an
+Ayurvedic Practitioner to guide them into better health.
+Customers may take up their own personal studies of Ayurveda.
+
+
+AyurProject is Project Management software that uses Ayurveda as a foundation.
+AyurProject will be able to guide users into becoming able to manage their
+own projects, and even their own life, using Ayurveda as a foundation.
+
+
+
+
+
 ## New with eeshvardasikcm Github
 
 I have been contacting some people
