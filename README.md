@@ -32,7 +32,8 @@ for a long time and may possibly
 find some remote volunteer work 
 on GitHub for a good cause
 over in higher conscious
-like-minded communities in Seattle.
+like-minded communities in Seattle
+or similar.
 
 because I'm not going to be using
 llvm, a natural move for me
@@ -45,6 +46,7 @@ to avoid any overlap right now
 by using C++ standardized
 libraries and standardized C++
 practices.
+
 
 ### AyurProject 
 
@@ -131,6 +133,26 @@ I spent the last few months researching
 carbon project at Google and discussing with
 some of the developers involved with
 carbon project about their technologies.
+
+It was nice feeling important and that my voice mattered at
+Carbon Project. The developers asked me a series of questions
+and wanted to know my thoughts on various concepts related
+to their toolchain. I spent quite a bit of time researching
+and getting in the dialogue with them.
+
+One interesting moment that I like to remember is when one of
+the Carbon Project lead developers asked me to explain why
+I was refering to the LLVM intermediate binary as a 
+computer program. They didn't realize that those LLVM
+instruction sets are considered a computer program on
+some levels. Wikipedia specifically connects computer
+programs and instruction sets in their article about
+the classic punch card style computers from the
+1970s.
+
+I have been doing a lot of studying into systems modeling
+and it is easy for me to make concurrencies of computer
+science vocabulary.
 
 ### Shrota name changed to AyurProject
 
