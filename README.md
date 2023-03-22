@@ -86,6 +86,12 @@ of not doing work for somebody else.
 
 My new PC made all the difference.
 
+AyurProject C++ development is going very rapidly. I am
+focusing on Ayurveda as a foundation to all of my goals and
+that slows work down. The amount of new C++ code and the quality
+of C++ code that I am writing considering the time comstraints
+is impressive.
+
 ### My new PC and writing C++
 
 I
