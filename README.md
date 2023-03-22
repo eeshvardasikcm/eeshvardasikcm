@@ -154,6 +154,41 @@ I have been doing a lot of studying into systems modeling
 and it is easy for me to make concurrencies of computer
 science vocabulary.
 
+One other note, that I can't continue without making sense of
+is concerning a series of messages I received from Google employees
+at the Carbon Project. I have been watching the news and I don't
+ever see Google starting legal battles with anyone, so I was
+suprised to receive a series of messages from Google employees
+concerning a legal topic.
+
+Immediately, I stopped working as a
+volunteer on the Google Carbon project after receiving those
+messages. It's not that I am not ready to talk about legal
+topics, but I felt that the Carbon Project Google employees
+were presenting their words in a way that I felt was too
+dangerous for me to have anything to do with.
+
+I have good ethics and I am a good person. I will not be
+wanting to enter any situation or discussion that involves
+some unnecesarry dangers.
+
+I didn't do anything wrong except
+have a little bit if ignorance entering my first attempt
+at contributing to a majot open source project, and that by
+no means should ever be considered wrong.
+
+I told the Google employees that I believe they are a little
+unqualified to be using legal language in the way they were
+and told them that I'm going to be avoiding all Google projects
+for at lewst one year. I will maintain using Google products
+and services that are already completed and in production
+for customer use.
+
+I have made changes to the LICENSE file attached to any
+repository that I am forking to help protect myself
+against any potential similar messages from any other major
+corloration in the future.
+
 ### Shrota name changed to AyurProject
 
 Sevaware licensing created as a fork from my Veganware licensing.
