@@ -20,10 +20,6 @@ AyurProject is Project Management software that uses Ayurveda as a foundation.
 AyurProject will be able to guide users into becoming able to manage their
 own projects, and even their own life, using Ayurveda as a foundation.
 
-
-
-
-
 ## New with eeshvardasikcm Github
 
 I have been contacting some people
@@ -173,21 +169,21 @@ wanting to enter any situation or discussion that involves
 some unnecesarry dangers.
 
 I didn't do anything wrong except
-have a little bit if ignorance entering my first attempt
-at contributing to a majot open source project, and that by
+have a little bit of ignorance entering my first attempt
+at contributing to a major open source project, and that by
 no means should ever be considered wrong.
 
 I told the Google employees that I believe they are a little
 unqualified to be using legal language in the way they were
 and told them that I'm going to be avoiding all Google projects
-for at lewst one year. I will maintain using Google products
+for at least one year. I will maintain using Google products
 and services that are already completed and in production
 for customer use.
 
 I have made changes to the LICENSE file attached to any
 repository that I am forking to help protect myself
 against any potential similar messages from any other major
-corloration in the future.
+corporation in the future.
 
 ### Shrota name changed to AyurProject
 
