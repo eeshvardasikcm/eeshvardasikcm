@@ -191,6 +191,30 @@ repository that I am forking to help protect myself
 against any potential similar messages from any other major
 corporation in the future.
 
+Any wording on those LICENSEs are not to be interpreted as indications
+to the actual previous events. When Google employees sent me those
+messages, I felt mistreated, and I still do feel mistreated. The
+Google employees did not make themselves available to discuss. The
+messages were sort of a one way communication with no chance for 
+discussion. I let them know how I felt mistreated but they were
+unable to respond.
+
+I made the decision to leave the Carbon Project
+because I do not like receiving messages like that with no one
+available to discuss with. I quickly became aware that Carbon Project
+is not a place to feel comfortable having discussions about anything,
+including performing the code writing.
+
+I left with the assumption that those employees made a mistake and may
+be a little inexperienced in handling managerial situations with
+grace and understanding.
+
+I want to get some committs completed with them
+in the future. Hopefully looking back at Carbon Project will not be
+a negative memory and we can all proceed knowing that I made the
+adjustments to fit in their rigid system to get some pull requests
+recorded.
+
 ### Shrota name changed to AyurProject
 
 Sevaware licensing created as a fork from my Veganware licensing.
