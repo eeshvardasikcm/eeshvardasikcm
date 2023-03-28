@@ -4,6 +4,8 @@ Eeshvar Das (Erik Douglas Ward) is a unique software architect, because of his
 ability to redesign modern software architecture strategies, creatively influenced by Yoga,
 Ayurvedic health, the pursuit of prosperous and cultured happiness in Artha, and Moksha.
 
+
+
 ## The value of Eeshvar Das
 
 My AyurProject has great potential value as a new type of
