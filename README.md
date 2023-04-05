@@ -23,6 +23,26 @@ own projects, and even their own life, using Ayurveda as a foundation.
 
 ## New with eeshvardasikcm Github
 
+Ububtu is going to be necessary to install on my local pc for
+me to be able to work on open source C++ repositories. I have a
+strategy or two to try for installing Ubuntu on my Windows machine
+without any changes to hardware or boot.
+
+Windows building is not working for any of the C++ open source
+repoaitories that I have cloned.
+
+Unreal Engine has released an update as version 5.2. I will be updating
+soon. I will also be updating my Android Studio dependencies. It may be
+that I won't be able to install Ubuntu for a couple of months from now.
+It probably will be best to install the Ubuntu LTR to avoid major update
+downloads.
+
+My development schedule is busy enough with AyurProject. Tons of new C++ 
+code has been written over the past few weeks. Focusing on Ayurveda right now
+is the most important and time consuming objective.
+
+### Pugeot Sound
+
 I have been contacting some people
 in Seattle where I used to live
 for a long time and may possibly
