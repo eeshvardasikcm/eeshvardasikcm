@@ -43,93 +43,14 @@ My implementation of a language with a
 C++ toolchain quite a bit more simple
 than carbon language.
 
-I believe in Google and I believe in
-their employee policies that protect
-employees against abuse and discrimination.
-
-I spent the last few months researching
-carbon project at Google and discussing with
-some of the developers involved with
-carbon project about their technologies.
-
-It was nice feeling important and that my voice mattered at
-Carbon Project. The developers asked me a series of questions
-and wanted to know my thoughts on various concepts related
-to their toolchain. I spent quite a bit of time researching
-and getting in the dialogue with them.
-
-One interesting moment that I like to remember is when one of
-the Carbon Project lead developers asked me to explain why
-I was refering to the LLVM intermediate binary as a 
-computer program. They didn't realize that those LLVM
-instruction sets are considered a computer program on
-some levels. Wikipedia specifically connects computer
-programs and instruction sets in their article about
-the classic punch card style computers from the
-1970s.
-
-I have been doing a lot of studying into systems modeling
-and it is easy for me to make concurrencies of computer
-science vocabulary.
-
-One other note, that I can't continue without making sense of
-is concerning a series of messages I received from Google employees
-at the Carbon Project. I have been watching the news and I don't
-ever see Google starting legal battles with anyone, so I was
-suprised to receive a series of messages from Google employees
-concerning a legal topic.
-
-Immediately, I stopped working as a
-volunteer on the Google Carbon project after receiving those
-messages. It's not that I am not ready to talk about legal
-topics, but I felt that the Carbon Project Google employees
-were presenting their words in a way that I felt was too
-dangerous for me to have anything to do with.
-
-I have good ethics and I am a good person. I will not be
-wanting to enter any situation or discussion that involves
-some unnecesarry dangers.
-
-I didn't do anything wrong except
-have a little bit of ignorance entering my first attempt
-at contributing to a major open source project, and that by
-no means should ever be considered wrong.
-
-I told the Google employees that I believe they are a little
-unqualified to be using legal language in the way they were
-and told them that I'm going to be avoiding all Google projects
-for at least one year. I will maintain using Google products
-and services that are already completed and in production
-for customer use.
-
-I have made changes to the LICENSE file attached to any
-repository that I am forking to help protect myself
-against any potential similar messages from any other major
-corporation in the future.
-
-Any wording on those LICENSEs are not to be interpreted as indications
-to the actual previous events. When Google employees sent me those
-messages, I felt mistreated, and I still do feel mistreated. The
-Google employees did not make themselves available to discuss. The
-messages were sort of a one way communication with no chance for 
-discussion. I let them know how I felt mistreated but they were
-unable to respond.
-
-I made the decision to leave the Carbon Project
-because I do not like receiving messages like that with no one
-available to discuss with. I quickly became aware that Carbon Project
-is not a place to feel comfortable having discussions about anything,
-including performing the code writing.
-
-I left with the assumption that those employees made a mistake and may
-be a little inexperienced in handling managerial situations with
-grace and understanding.
+Bad technical difficulties with the Discord app that Google
+Carbon Project uses caused the volunteer work I was doing 
+for Google Carbon Project to pause. I will be resuming
+volunteering to the Google Carbon Project in one year.
 
 I want to get some committs completed with them
-in the future. Hopefully looking back at Carbon Project will not be
-a negative memory and we can all proceed knowing that I made the
-adjustments to fit in their rigid system to get some pull requests
-recorded.
+in the future. Hopefully looking back at Carbon Project will be
+a positve memory.
 
 ### Shrota name changed to AyurProject
 
