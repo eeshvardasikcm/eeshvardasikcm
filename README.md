@@ -23,7 +23,7 @@ own projects, and even their own life, using Ayurveda as a foundation.
 
 ## New with eeshvardasikcm Github
 
-Ububtu is going to be necessary to install on my local pc for
+Ubuntu is going to be necessary to install on my local pc for
 me to be able to work on open source C++ repositories. I have a
 strategy or two to try for installing Ubuntu on my Windows machine
 without any changes to hardware or boot.
