@@ -44,7 +44,7 @@ I have secured several web domains, obtained business licensing paperwork,
 and secured my "eeshvardasikcm" name on the major social media platforms.
 
 In no way at all are my actions or words to be interpreted as official
-representations of the International Krishna Chaitabya Mission.
+representations of the International Krishna Chaitanya Mission.
 
 ## New with eeshvardasikcm Github
 
