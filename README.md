@@ -21,6 +21,31 @@ AyurProject is Project Management software that uses Ayurveda as a foundation.
 AyurProject will be able to guide users into becoming able to manage their
 own projects, and even their own life, using Ayurveda as a foundation.
 
+## The identity of Eeshvar Das
+
+I was given the name Eeshvar Das by Srila Bhakti Vicar Bishnu Maharaj of
+the International Krishna Chaitanya Mission. When I use the name
+"eeshvardasikcm", ikcm is only used for identifying purposes.
+
+I am not
+officially affiliated with any administrative responsibilities of the 
+International Krishna Chaitanya Mission.
+
+I am a lifelong willing servant to the International Krishna Chaitanya
+Mission (IKCM). It is my service to the International Krishna
+Chaitanya Mission that defines who I am.
+
+There has been consisten confusion about my identity over recent years,
+including the innapropriate misuse of my given name "Erik Douglas Ward".
+I have taken several steps to increase the accuracy of Google search
+optimization to protect myself from previous misuses of my identity.
+
+I have secured several web domains, obtained business licensing paperwork,
+and secured my "eeshvardasikcm" name on the major social media platforms.
+
+In no way at all are my actions or words to be interpreted as official
+representations of the International Krishna Chaitabya Mission.
+
 ## New with eeshvardasikcm Github
 
 Ubuntu is going to be necessary to install on my local pc for
