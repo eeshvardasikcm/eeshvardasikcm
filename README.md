@@ -25,7 +25,7 @@ own projects, and even their own life, using Ayurveda as a foundation.
 
 I was given the name Eeshvar Das by Srila Bhakti Vicar Bishnu Maharaj of
 the International Krishna Chaitanya Mission. When I use the name
-"eeshvardasikcm", ikcm is only used for identifying purposes.
+"eeshvardasikcm", "ikcm" is only used for identifying purposes.
 
 I am not
 officially affiliated with any administrative responsibilities of the 
