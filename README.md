@@ -35,7 +35,7 @@ I am a lifelong willing servant to the International Krishna Chaitanya
 Mission (IKCM). It is my service to the International Krishna
 Chaitanya Mission that defines who I am.
 
-There has been consisten confusion about my identity over recent years,
+There has been consistent confusion about my identity over recent years,
 including the innapropriate misuse of my given name "Erik Douglas Ward".
 I have taken several steps to increase the accuracy of Google search
 optimization to protect myself from previous misuses of my identity.
