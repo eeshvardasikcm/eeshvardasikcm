@@ -6,6 +6,67 @@ can be preserved after it has been
 moved away from my main GitHub
 profile page.
 
+## archived May 2023
+
+part of my AyurProject is to
+start writing some C++.
+
+I will not be depending on
+carbon project and carbon language.
+
+I will be writing my own C++
+implementation for AyurProject.
+
+I am separating AyurProject from
+carbon project for at least one year.
+all work that I do for at least one year
+will not be part of carbon project.
+I will also not be using anything
+from carbon project over the next year.
+
+### C++ implementation of AyurProject
+
+It turns out I can write C++ pretty fast.
+I had planned to sit down over the
+next couple of weeks to write some
+C++ for carbon project, but carbon project
+decided I didn't quite meet their timeline
+fast enough just last week.
+
+I just sat down and wrote a whole parsing
+algorithm that parses addition operator
+for my AyurProject language.
+
+I split the implementation into several
+functions, so the parsing of substraction
+and so on, even more quickly.
+
+It is nice to have the reduced stress
+of not doing work for somebody else.
+
+My new PC made all the difference.
+
+AyurProject C++ development is going very rapidly. I am
+focusing on Ayurveda as a foundation to all of my goals and
+that slows work down. The amount of new C++ code and the quality
+of C++ code that I am writing considering the time comstraints
+is impressive.
+
+
+### Civil Rights
+
+I am fighting for civil rights in Las Vegas, Nevada.
+Many others in Las Vegas have allowed the Vegas government to steal their liberties away from them in the name of gambling, illicit sex and tourism.
+I will not allow the government of Las Vegas to get away with forcing me to work involuntarily without pay.
+I am pursuing some government employees and government officials by filing in the Supreme Court of Nevada.
+I want my basic civil rights back.
+The Las Vegas government does not allow me to move away from Vegas to a safer place.
+I am repeatedly forced to work involuntarily without pay,
+even though I have never committed a crime.
+
+I was born in Nevada and raised in Las Vegas. Others like me have suffered greatly. I want to fight for my civil rights.
+
+
 ## archived March 2023
 
 ### My new PC and writing C++
