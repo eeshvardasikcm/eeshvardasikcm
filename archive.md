@@ -200,6 +200,28 @@ even though I have never committed a crime.
 
 I was born in Nevada and raised in Las Vegas. Others like me have suffered greatly. I want to fight for my civil rights.
 
+### Pugeot Sound
+
+I have been contacting some people
+in Seattle where I used to live
+for a long time and may possibly
+find some remote volunteer work 
+on GitHub for a good cause
+over in higher conscious
+like-minded communities in Seattle
+or similar.
+
+because I'm not going to be using
+llvm, a natural move for me
+would be to look for some sustainable
+project that is part of the
+C++ community here on github.
+
+carbon project uses LLVM and I want
+to avoid any overlap right now
+by using C++ standardized
+libraries and standardized C++
+practices.
 
 ## archived March 2023
 
