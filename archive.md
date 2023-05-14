@@ -59,6 +59,70 @@ will not be part of carbon project.
 I will also not be using anything
 from carbon project over the next year.
 
+sending me demanding and threarening messages that express their
+unrealistic expectations to met overnight.
+
+I responded by letting them know that they are making the miatake here.
+I said that I am a volunteer and I have not even applied for a job with
+them so they should not suddenly crash down on meike they would on a
+paid employee.
+
+I explained how I am zero cost to them and how they told 
+me previously that I can take a long time to finish the tasks if thats
+what it takes. I had never written a test regression system before
+and they were asking me to learn their entire toolchain and come up
+with some test refrssion solutions for them.
+
+I thought that is a great situation to be in. I planned all the details
+spending long hours studying their implementation of their toolchain
+to make determinations on whether to implement a new one or go with 
+the immature one that LLVM has.
+
+They suddenly switched the task to needs to be done now, and without
+the regression testing, and used severely abusive language when they
+messaged me about it.
+
+The resolution I made was to write them a long and detailed expectations
+document of my own that outlines what they did wrong and how, as a
+volunteer that desires to help them succeed, they should behave in the
+future.
+
+We agreed on a new format for subitting work as a volunteer, and they
+don't even credit me at all for helping them come up with a new format.
+If they had the new format in place when I started working Google Carbon
+Project, then tere would have besn no need for the both of us to go
+through that experience and all that labor of creating a new format that
+works better for both of us.
+
+In the end, I hope that we can both look back in this experience as a
+positive experience when I decide to get back in there and
+make enough commits to qualify as an official Google Carbon
+Project Contibutor.
+
+For the time being, I am still having bad feelings and I am 
+writing this content today to try to come the realization
+that I did send them my expectations and they did agree to
+a procedure for making committs in the future that is more 
+clearly defined.
+
+Hopefully, I will be able to let this situation rest for a while
+knowing that everything is set up and ready for when I decide to
+return.
+
+I have some obligation also to note that all of this happened
+during the time when Google was releasing many employees due to
+the sudden and drastic shift in the software industry in early 2023.
+
+Carbon Project did appear to lose some personel that were helping 
+supoort the lead developers with being able to work more cohesivelyo
+with the public.
+
+Carbon project leads did appear to suddenly feel
+obligated to pick up the slack from losing those workers and I think
+this is all the major reason why the Google Carbon Project leads
+were unable to use professional behavior with volunteers coming from
+the public at that time.
+
 ### C++ implementation of AyurProject
 
 It turns out I can write C++ pretty fast.
