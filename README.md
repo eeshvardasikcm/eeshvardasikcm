@@ -48,41 +48,7 @@ representations of the International Krishna Chaitanya Mission.
 
 ## New with eeshvardasikcm Github
 
-Ubuntu is going to be necessary to install on my local pc for
-me to be able to work on open source C++ repositories. I have a
-strategy or two to try for installing Ubuntu on my Windows machine
-without any changes to hardware or boot.
 
-Windows building is not working for any of the C++ open source
-repoaitories that I have cloned.
-
-Unreal Engine has released an update as version 5.2. I will be updating
-soon. I will also be updating my Android Studio dependencies. It may be
-that I won't be able to install Ubuntu for a couple of months from now.
-It probably will be best to install the Ubuntu LTR to avoid major update
-downloads.
-
-My development schedule is busy enough with AyurProject. Tons of new C++ 
-code has been written over the past few weeks. Focusing on Ayurveda right now
-is the most important and time consuming objective.
-
-### Resolving being mistreated by the Google Carbon Project
-
-I have tried to be silent about the way Google Carbon Project mistreated
-me while I was volunteering for them, but I have to defend myself. If I
-don't speak about how I feel mistreated, then people will be open to
-make assumptions and that's not going to work for me.
-
-I want to work at Google and other major companies in the furture. I am
-not going to give the details about the severe use of bad language that
-Google Carbon Project sent me. Instead, I want to explain how I am coming
-to resolve the issue of their apparent inability to behave like
-professional managers.
-
-In summary, I will just say that the Google Carbon Project leads went
-outside of their domain and attacked me for the person that I am by
-sending dangerous and hurtful messages to me concerning my life
-outside of the volunteer work that I was doing for Google.
 
 Google Carbon Project appears to have made extreme assumotions about
 my personal life, instead of reading the material that I actually
