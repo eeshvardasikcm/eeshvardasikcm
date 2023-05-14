@@ -33,6 +33,39 @@ me while I was volunteering for them, but I have to defend myself. If I
 don't speak about how I feel mistreated, then people will be open to
 make assumptions and that's not going to work for me.
 
+Google Carbon Project appears to have made extreme assumotions about
+my personal life, instead of reading the material that I actually
+have posted on my social media.
+
+I didn't have anything negative or distasteful posted about Carbon
+Project on my social media. I had let people know that I had signed
+the Google Carbon Community Contributor contract with Google
+and was spending several months working toward becoming an active
+contributor. I had exoressed great optimism about the opoortunity.
+
+All of the other posts on my personal digital property were concerning
+things that had zero to do with Google Carbon Project. The contents of
+my social media in general is not of any concern and contains mostly
+an explaination of how difficult is is to try to survive having
+generalized fatigue disability with no employers willing to hire
+disabled people.
+
+I did not engage in any employment situation or subcontractor paid
+situation with Google Carbon Project. Google Carbon Project openly
+invites people of any kind that is interested in Google Carbon
+Project to participate in their discussions about Carbon Project.
+
+There is no expectaions to meet any specific performance criteria
+that a paid employee would have to meet.
+
+For some reason, the Google Carbon Project lead personel suddenly
+started treating me as if I was an employee and the demands and
+exoectations from them increased overnight.
+
+I explained
+that I have generalized fatigue and it will not be too long until
+my performance is able to speed up, but they decided to continue
+
 I want to work at Google and other major companies in the furture. I am
 not going to give the details about the severe use of bad language that
 Google Carbon Project sent me. Instead, I want to explain how I am coming
@@ -122,6 +155,8 @@ obligated to pick up the slack from losing those workers and I think
 this is all the major reason why the Google Carbon Project leads
 were unable to use professional behavior with volunteers coming from
 the public at that time.
+
+
 
 ### C++ implementation of AyurProject
 
