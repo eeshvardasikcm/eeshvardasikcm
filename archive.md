@@ -6,7 +6,7 @@ can be preserved after it has been
 moved away from my main GitHub
 profile page.
 
-## archived May 2023
+## archived April 2023
 
 Ubuntu is going to be necessary to install on my local pc for
 me to be able to work on open source C++ repositories. I have a
