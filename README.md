@@ -54,7 +54,18 @@ become to protect AyurProject from Google for an additional 2 years by
 not using Carbon language with AyurProject until at least three years
 have passed.
 
+I will not want to contribute to Carbon Project for at least an additional
+one year. I am a proven civil rights victim. Carbon Project leads sent
+messages to me containing personal attacks and very threatening legal
+messages. I don't need to prove anything to them. They lost their chance
+to rexeive my help. I tried with my best efforts and they lied about me
+and manipulated facts so severely that I am terrified by their bad
+behavior. I am not going to feel any fault of my own.
 
+I will likely contribute to some other Google repository in efforts to
+redeem what Carbon Project has stolen from me. I feel horrible having
+my work stolen by Google Carbon Project. It was all there one day, and
+then they erased it all. I am so saddenned by their bad show of character.
 
 
 
