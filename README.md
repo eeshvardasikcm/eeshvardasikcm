@@ -48,35 +48,6 @@ representations of the International Krishna Chaitanya Mission.
 
 ## New with eeshvardasikcm Github
 
-The software and hardware industry suffered massive shock in 2023. The result of this industry wide shock has waves forming that will soon affect the whole economy. It must be that Carbon Project was adversely affected by this industry shock at the same time that I was willing to contribute my volunteer help.
-
-The way that Carbon Project failed to represent their goals and attitudes of open source development at that time in early 2023 must be a result of the initial impacts felt by the threats of the emerging consumer availability of large language technology.
-
-Many insudtry leaders are petitioning to slow down the AI before it causes too many problems for humanity. What happened is what happened and I have to be safe.
-
-AyurProject will have nothing to do with Carbon Project for three years.
-Google employees sent me a direct message of legal nature. My plan has
-become to protect AyurProject from Google for an additional 2 years by
-not using Carbon language with AyurProject until at least three years
-have passed.
-
-I will not want to contribute to Carbon Project for at least an additional
-one year. I am a proven civil rights victim. Carbon Project leads sent
-messages to me containing personal attacks and very threatening legal
-messages. I don't need to prove anything to them. They lost their chance
-to rexeive my help. I tried with my best efforts and they lied about me
-and manipulated facts so severely that I am terrified by their bad
-behavior. I am not going to feel any fault of my own.
-
-I will likely contribute to some other Google repository in efforts to
-redeem what Carbon Project has stolen from me. I feel horrible having
-my work stolen by Google Carbon Project. It was all there one day, and
-then they erased it all. I am so saddenned by their bad show of character.
-
-
-
-
-
 ### AyurProject 
 
 [AyurProject](https://github.com/eeshvardasikcm?tab=projects)
