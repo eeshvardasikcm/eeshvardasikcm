@@ -6,7 +6,7 @@ Ayurvedic health, the pursuit of prosperous and cultured happiness in Artha, and
 
 ![Adobe_Express_20230328_0746390_1](https://user-images.githubusercontent.com/96601374/228279154-4f93eaf1-f83d-4357-a7ab-4098b0dd241e.png)
 
-## The value of Eeshvar Das
+## The Value of Eeshvar Das
 
 My AyurProject has great potential value as a new type of
 software that is created using Ayurveda as a foundation.
@@ -21,7 +21,7 @@ AyurProject is Project Management software that uses Ayurveda as a foundation.
 AyurProject will be able to guide users into becoming able to manage their
 own projects, and even their own life, using Ayurveda as a foundation.
 
-## The identity of Eeshvar Das
+## The Identity of Eeshvar Das
 
 I was given the name Eeshvar Das by Srila Bhakti Vicar Bishnu Maharaj of
 the International Krishna Chaitanya Mission. When I use the name
@@ -35,14 +35,6 @@ I am a lifelong willing servant to the International Krishna Chaitanya
 Mission (IKCM). It is my service to the International Krishna
 Chaitanya Mission that defines who I am.
 
-There has been consistent confusion about my identity over recent years,
-including the innapropriate misuse of my given name "Erik Douglas Ward".
-I have taken several steps to increase the accuracy of Google search
-optimization to protect myself from previous misuses of my identity.
-
-I have secured several web domains, obtained business licensing paperwork,
-and secured my "eeshvardasikcm" name on the major social media platforms.
-
 In no way at all are my actions or words to be interpreted as official
 representations of the International Krishna Chaitanya Mission.
 
@@ -52,7 +44,6 @@ representations of the International Krishna Chaitanya Mission.
 
 [AyurProject](https://github.com/eeshvardasikcm?tab=projects)
 
-AyurProject
 ## app development. recent history
 
 - 2019, created my own app development principles
