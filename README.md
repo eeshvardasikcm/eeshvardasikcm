@@ -51,7 +51,7 @@ representations of the International Krishna Chaitanya Mission.
 - 2020, created a hierarchy of concepts, goals, and objectives
 - 2021, moved hierarchy to Java package system in Android Studio
 - 2021 Winter, started using GitHub to organize repositories
-- 2022 AyurProject, completely tracked project management on GitHub
+- 2022 AyurProject, partially tracked project management on GitHub
 
 ## Original Eeshvar Das Google Play Apps deprecated
 
