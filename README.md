@@ -1,54 +1,7 @@
 # eeshvardasikcm on GitHub 
 
-Eeshvar Das (Erik Douglas Ward) is a unique software architect, because of his
-ability to redesign modern software architecture strategies, creatively influenced by Yoga,
-Ayurvedic health, the pursuit of prosperous and cultured happiness in Artha, and Moksha.
+Founder of EeshvarDasIKCM, Software Publisher, AyurProject app.
 
-![Adobe_Express_20230328_0746390_1](https://user-images.githubusercontent.com/96601374/228279154-4f93eaf1-f83d-4357-a7ab-4098b0dd241e.png)
+I do not have a partnership with Google and I am not acting as an employee or agent.
 
-## The Value of Eeshvar Das
-
-My AyurProject has great potential value as a new type of
-software that is created using Ayurveda as a foundation.
-AyurProject customers will benefit by AyurProject.
-
-Ayurveda as a foundation is the principle that will be used
-to guide customers into becoming capable of using an
-Ayurvedic Practitioner to guide them into better health.
-Customers may take up their own personal studies of Ayurveda.
-
-AyurProject is Project Management software that uses Ayurveda as a foundation.
-AyurProject will be able to guide users into becoming able to manage their
-own projects, and even their own life, using Ayurveda as a foundation.
-
-## The Identity of Eeshvar Das
-
-I was given the name Eeshvar Das by Srila Bhakti Vicar Bishnu Maharaj of
-the International Krishna Chaitanya Mission. When I use the name
-"eeshvardasikcm", "ikcm" is only used for identifying purposes.
-
-I am not
-officially affiliated with any administrative responsibilities of the 
-International Krishna Chaitanya Mission.
-
-I am a lifelong willing servant to the International Krishna Chaitanya
-Mission (IKCM). It is my service to the International Krishna
-Chaitanya Mission that defines who I am.
-
-In no way at all are my actions or words to be interpreted as official
-representations of the International Krishna Chaitanya Mission.
-
-### AyurProject 
-
-[AyurProject](https://github.com/eeshvardasikcm?tab=projects)
-
-## app development. recent history
-
-- 2019, created my own app development principles
-- 2020, started conceptualizing clay pot maker game
-- 2020, created a hierarchy of concepts, goals, and objectives
-- 2021, moved hierarchy to Java package system in Android Studio
-- 2021 Winter, started using GitHub to organize repositories
-- 2022 AyurProject, partially tracked project management on GitHub
-
-_ Eeshvar Das (@eeshvardasikcm, Erik Douglas Ward)
+Any statements I make are not statements made on behalf of Google or any Google company. Any opinions I express are my own and not those of Google.
