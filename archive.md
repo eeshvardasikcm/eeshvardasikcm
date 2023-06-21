@@ -19,12 +19,6 @@ without any changes to hardware or boot.
 Windows building is not working for any of the C++ open source
 repoaitories that I have cloned.
 
-Unreal Engine has released an update as version 5.2. I will be updating
-soon. I will also be updating my Android Studio dependencies. It may be
-that I won't be able to install Ubuntu for a couple of months from now.
-It probably will be best to install the Ubuntu LTR to avoid major update
-downloads.
-
 My development schedule is busy enough with AyurProject. Tons of new C++ 
 code has been written over the past few weeks. Focusing on Ayurveda right now
 is the most important and time consuming objective.
