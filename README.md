@@ -38,15 +38,6 @@ Chaitanya Mission that defines who I am.
 In no way at all are my actions or words to be interpreted as official
 representations of the International Krishna Chaitanya Mission.
 
-## New with eeshvardasikcm Github
-
-### Google Carbon Project and Google Test
-
-I worked for Google Carbon Project for a few months by engaging in dialogue and working toward a long term testing solution that Google Carbon Project leads asked me to do. I now feel it may be better if I Switch to the Google Test team to help work toward the testing realization that one Google Carbon Project lead was asking me to do.
-
-It may not be until 2015 until I am able to make contributions to Google Test, a fork of Google Test, or a derivative version of Google Test. It will take $15 million to get me off of this path that I set for my career advance. I am happy to have been able to work with Google Carbon Project and I am dedicated to helping Google Carbon Project realize its potential.
-
-
 ### AyurProject 
 
 [AyurProject](https://github.com/eeshvardasikcm?tab=projects)
