@@ -51,9 +51,4 @@ representations of the International Krishna Chaitanya Mission.
 - 2021 Winter, started using GitHub to organize repositories
 - 2022 AyurProject, partially tracked project management on GitHub
 
-## Original Eeshvar Das Google Play Apps deprecated
-
-Which apps are deprecated.
-Shrota Considerate, Graha, Vitae, and Shrota are deprecated.
-
 _ Eeshvar Das (@eeshvardasikcm, Erik Douglas Ward)
