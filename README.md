@@ -6,7 +6,9 @@ I do not have a partnership with Google and I am not acting as an employee or ag
 
 Any statements I make are not statements made on behalf of Google or any Google company. Any opinions I express are my own and not those of Google.
 
-## AyurProject
+## AyurProject will be renamed soon
+
+Anything currently named with "AyurProject" will soon have a new project beta name. That new name will be announced soon.
 
 AyurProject-dev repository was made a private repository recently. Becoming part of the Google Cloud Innovators training has caused me to seriously rethink how I post publicly and I have drastically changed my public appearance in efforts to make my traininv with Google Cloud Innovators go as good as possible for my careear and for the future of my lifetime AyurProject app.
 
