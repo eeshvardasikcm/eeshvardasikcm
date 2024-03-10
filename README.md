@@ -1,21 +1,17 @@
 # eeshvardasikcm on GitHub 
 
-Founder of EeshvarDasIKCM, Software Publisher, AyurProject app.
+Founder of EeshvarDasIKCM, Software Publisher.
 
-I do not have a partnership with Google and I am not acting as an employee or agent.
+I do not have a partnership with Google and I am not an employee of Google. Any statements I make are not statements made on behalf of Google or any Google company. Any opinions I express are my own.
 
-Any statements I make are not statements made on behalf of Google or any Google company. Any opinions I express are my own and not those of Google.
+## Ayurveda and Project Management may soon be having regular new content on Android and on the website
 
-## Ayurveda and Project Management is the new project beta name for AyurProject
+Ayurveda and Project Management is privately owned by myself and I am the sole designerm developer and creator. Ayurveda and Project Management is being be published straight to my private Google Cloud. From there, my Ayurveda and Project Management artifacts will be generating the web app and the Android app. The Windows and Epic Games Store versions are in development, but no accurate timeline estimates for them are possible to provide right now.
 
-Anything currently named with AyurProject will soon be replaced with Ayurveda and Project Management.
+## redacted repositories
 
-ayurproject-dev repository was made a private repository recently. I have seriously reevaluated how I post publicly and I have changed my public social media appearance in efforts to make my career go as good as possible, and for the future of my lifetime Ayurveda and Project Management apps.
+I have seriously reevaluated how I post publicly and I have changed my public social media appearance in efforts to improve my career.
 
-Ayurveda and Project Management has gone back into internal testing on Google Play Store to increase compliance perfection with the Google Play Store policies.
+My GitHub was created with the intention of involving the open source community with my work at some partial levels of public development exposure.
 
-The ayurproject-dev GitHub repository were created with the intention of involving the open source community with the development of Ayurveda and Project Management at some partial levels of public development exposure.
-
-It is currently a goal to resurface the ayurproject-dev repository as a new github Ayurveda and Project Management repository, likely with major redactions squashing many previous commits, and hiding many previous comments.
-
-Ayurveda and Project Management is privately owned by myself and I am the sole designer and developer. Most of Ayurveda and Project Management will be published straight to my private Google Cloud. From there, my Ayurveda and Project Management artifacts will generate the web app and the Android app. The Windows version is in development and is farther along than the Android and web versions. The Windoes version will be applied for publishing to the Epic Games Store. The Google Cloud server version of Ayurveda and Project Management is deeply detailed with three years of my work.
+It is currently a goal to someday have time to resurface some of my repositories work to GitHub, likely with major redactions squashing many previous commits, and hiding many previous comments.
