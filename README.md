@@ -8,7 +8,7 @@ I do not have a partnership with Google and I am not an employee of Google. Any 
 
 ![ayurveda_and_project_management_2 (2023_10_06 14_54_28 UTC)](https://github.com/eeshvardasikcm/eeshvardasikcm/assets/96601374/2808daf6-caf0-4fc7-92f7-0a4119119858)
 
-Ayurveda and Project Management is privately owned by myself and I am the sole designerm developer and creator. Ayurveda and Project Management is being be published straight to my private Google Cloud. From there, my Ayurveda and Project Management artifacts will be generating the web app and the Android app. The Windows and Epic Games Store versions are in development, but no accurate timeline estimates for them are possible to provide right now.
+Ayurveda and Project Management is privately owned by myself and I am the sole designer, developer and creator. Ayurveda and Project Management is being be published straight to my private Google Cloud. From there, my Ayurveda and Project Management artifacts will be generating the web app and the Android app. The Windows and Epic Games Store versions are in development, but no accurate timeline estimates for them are possible to provide right now.
 
 ## redacted repositories
 
