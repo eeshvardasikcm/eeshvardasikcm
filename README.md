@@ -4,7 +4,7 @@ Founder of EeshvarDasIKCM, Software Publisher.
 
 I do not have a partnership with Google and I am not an employee of Google. Any statements I make are not statements made on behalf of Google or any Google company. Any opinions I express are my own.
 
-## Ayurveda and Project Management may soon be having regular new content on Android and on the website
+## EeshvarDasIKCM May Soon Regularly Update Content on Ayurveda and Project Mangagement for Android and Website
 
 ![ayurveda_and_project_management_2 (2023_10_06 14_54_28 UTC)](https://github.com/eeshvardasikcm/eeshvardasikcm/assets/96601374/2808daf6-caf0-4fc7-92f7-0a4119119858)
 
