@@ -10,6 +10,15 @@ I do not have a partnership with Google and I am not an employee of Google. Any 
 
 Ayurveda and Project Management is privately owned by myself and I am the sole designer, developer and creator. Ayurveda and Project Management is being be published straight to my private Google Cloud. From there, my Ayurveda and Project Management artifacts will be generating the web app and the Android app. The Windows and Epic Games Store versions are in development, but no accurate timeline estimates for them are possible to provide right now.
 
+## Some of my credentials
+[Google Cloud Innovator](https://www.cloudskillsboost.google/public_profiles/fccf60cc-16be-497e-a945-91706a6be4ec)
+
+[Python](https://coursera.org/share/79fbeb60bde178807e635d16f05d7c9f)
+
+[W3Schools](https://www.w3profile.com/eeshvardasikcm)
+
+[Credly](https://www.credly.com/users/eeshvardasikcm)
+
 ## redacted repositories
 
 I have seriously reevaluated how I post publicly and I have changed my public social media appearance in efforts to improve my career.
