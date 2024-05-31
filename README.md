@@ -17,6 +17,8 @@ Ayurveda and Project Management is privately owned by myself and I am the sole d
 
 [W3Schools](https://www.w3profile.com/eeshvardasikcm)
 
+[CodinGame](https://www.codingame.com/profile/70a154e089698866b393f458447036523367585)
+
 [Credly](https://www.credly.com/users/eeshvardasikcm)
 
 ## redacted repositories
