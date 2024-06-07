@@ -23,4 +23,4 @@ Ayurveda and Project Management is privately owned by myself and I am the sole d
 
 ## redacted repositories
 
-GitHub hasn't been useful place for any of my personal work for me. I can't afford the expenses to continue my personal work here for now. I'm noticing that there's a decent amount of corporate activity here on GitHub. I think trying to connect with some corporate public repository may be okay.
+GitHub hasn't been useful place for any of my personal work for me. I can't afford the expenses to continue my personal work here for now.
