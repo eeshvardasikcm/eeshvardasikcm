@@ -27,4 +27,4 @@ GenAI is the hot topic right now with Google Cloud Innovators. My attention to d
 
 ## redacted repositories
 
-GitHub hasn't been useful place for any of my personal work for me. I can't afford the expenses to continue my personal work here for now. Maybe some people want my help here on GitHub and maybe I would find some agreeable feelings.
+GitHub hasn't been useful place for any of my personal work for me. I can't afford the expenses to continue my personal work here for now. It appears GitHub is for people that don't mind writng code for others without pay, or some people get hired by corporations to submit code to GitHub. So, this is not really the place for me. Maybe after I get hired, I will start posting code again. I left some dialgue options in discussions and with some repositories, but people haven't been intersted in dialogue.
