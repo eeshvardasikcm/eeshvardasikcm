@@ -16,15 +16,16 @@ I am doing a large amount of education right now. My current coursework is not l
 ### [Google Cloud Innovator](https://www.cloudskillsboost.google/public_profiles/fccf60cc-16be-497e-a945-91706a6be4ec)
 GenAI is the hot topic right now with Google Cloud Innovators. My attention to detail this month of June in stuying Generative AI hopefully will lead to some breakthroughs of opportunity later on. What I have learned recently about SRE and DevOps in Google Cloud Innovators has the effect of making my development automation a higher priority than I had expected a few months ago.
 
+### [CodinGame](https://www.codingame.com/profile/70a154e089698866b393f458447036523367585)
+Hopefully, I can find more time to show off my skills here on CodnGame. I am top 5% ranking.
+
 ### others
 [Python](https://coursera.org/share/79fbeb60bde178807e635d16f05d7c9f)
 
 [W3Schools](https://www.w3profile.com/eeshvardasikcm)
 
-[CodinGame](https://www.codingame.com/profile/70a154e089698866b393f458447036523367585)
-
 [Credly](https://www.credly.com/users/eeshvardasikcm)
 
 ## redacted repositories
 
-GitHub hasn't been useful place for any of my personal work for me. I can't afford the expenses to continue my personal work here for now. It appears GitHub is for people that don't mind writng code for others without pay, or some people get hired by corporations to submit code to GitHub. So, this is not really the place for me. Maybe after I get hired, I will start posting code again. I left some dialgue options in discussions and with some repositories, but people haven't been intersted in dialogue.
+My repositories on GitHub haven't received any feedback. I can't afford the expenses to continue my personal work here for now. It appears GitHub is for people that want to show off their skill to improve their career, or some people get hired by corporations that tell them to submit code to GitHub on behalf of the corporation. I currently have sufficient alternative places to show off my skills.
