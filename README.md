@@ -1,29 +1,63 @@
-# Eeshvar Das on GitHub 
+# Hi, I'm Eeshvar Das 👋
 
-Any opinions and views I express are my own.
+<p align="center">
+  <img src="https://github.com/eeshvardasikcm/eeshvardasikcm/assets/96601374/2808daf6-caf0-4fc7-92f7-0a4119119858" alt="Ayurveda and Project Management" width="600"/>
+</p>
 
-## Eeshvar Das may Soon Regularly Update Content on Ayurveda and Project Mangagement for Android and Website
+I am the sole designer, developer, and creator of **Ayurveda and Project Management**, an upcoming application for Android and Web. My passion lies in bridging ancient wisdom with modern technology.
 
-![ayurveda_and_project_management_2 (2023_10_06 14_54_28 UTC)](https://github.com/eeshvardasikcm/eeshvardasikcm/assets/96601374/2808daf6-caf0-4fc7-92f7-0a4119119858)
+_Any opinions and views expressed are my own._
 
-Ayurveda and Project Management is privately owned by myself and I am the sole designer, developer and creator.
+---
 
-## Some of my educational accomplishments
-I am doing a large amount of learning right now. I took a long break from college to explore spiritual studies and practices. I am now practicing **Krishna Bhakti Yoga** and have been studying **Ayurveda** nearly 20 years.
+## About Me
 
-### [Google Cloud Skills Boosts](https://www.cloudskillsboost.google/public_profiles/fccf60cc-16be-497e-a945-91706a6be4ec)
-Doing a lot of preparation studies and the Machine Learning Engineering Certification coursework.
+I am a dedicated lifelong learner with nearly two decades of in-depth study in **Ayurveda** and the practice of **Krishna Bhakti Yoga**. This profound spiritual journey has provided me with unique perspectives on discipline, holistic systems, and well-being, which I now integrate into my approach to software development and project management.
 
-### [CodinGame](https://www.codingame.com/profile/70a154e089698866b393f458447036523367585)
-Hopefully, I can find more time to show off my skills here on CodnGame. I was top 5% ranking last time I checked.
+After a period dedicated to these spiritual explorations, I am now channeling this experience, alongside focused technical training, to develop innovative solutions. I learn effectively by creating new code and am committed to making steady progress on my personal and professional brand.
 
-### others
-[Python](https://coursera.org/share/79fbeb60bde178807e635d16f05d7c9f)
+---
 
-[W3Schools](https://www.w3profile.com/eeshvardasikcm)
+## 🔭 I’m Currently Working On
 
-[Credly](https://www.credly.com/users/eeshvardasikcm)
+* **Ayurveda and Project Management App:** Actively developing this platform for Android and Web, aiming to integrate Ayurvedic principles with effective project management tools. I plan to share more about its development journey and potentially some code flows here on GitHub.
+* **Machine Learning Engineering:** Deepening my expertise through Google Cloud Skills Boosts, focusing on the Machine Learning Engineering Certification coursework.
 
-## notes
+---
 
-I learn well by creating new code. It's been a priority of mine to make steady progress on my personal brand. It appears GitHub can be used by people that want to show off their skills, or some people get hired by corporations that tell them to submit code to GitHub on behalf of the corporation. I currently have sufficient alternative places to show off my skills, but am exporing ideas on when I could potentially begin releasing some of my code flows here.
+## 🌱 I’m Currently Learning
+
+* Advanced concepts in Machine Learning and AI.
+* Best practices for Android and Web development.
+* Expanding my cloud competencies with Google Cloud Platform.
+
+---
+
+## 💪 My Skills
+
+* **Holistic Systems & Wellness:** Ayurveda (20+ years of study)
+* **Project Conception & Management:** Applying principles to software development.
+* **Development:** Python, ongoing learning in Android (Java/Kotlin) & Web Technologies (HTML, CSS, JavaScript).
+* **Cloud & ML:** Google Cloud Platform, Machine Learning concepts.
+* **Problem Solving:** Demonstrated through platforms like CodinGame.
+
+---
+
+## 🏅 Certifications & Achievements
+
+* **Google Cloud Skills Boost:** [View My Profile](https://www.cloudskillsboost.google/public_profiles/fccf60cc-16be-497e-a945-91706a6be4ec)
+    * Currently undertaking Machine Learning Engineering Certification coursework.
+* **CodinGame:** [View My Profile](https://www.codingame.com/profile/70a154e089698866b393f458447036523367585)
+    * Previously achieved Top 5% ranking, showcasing strong coding and problem-solving skills.
+* **Coursera:**
+    * [Python Certificate](https://coursera.org/share/79fbeb60bde178807e635d16f05d7c9f)
+* **W3Schools:** [View My Profile](https://www.w3profile.com/eeshvardasikcm)
+* **Credly:** [View My Badges](https://www.credly.com/users/eeshvardasikcm)
+
+---
+
+## 💡 Exploring GitHub
+
+I see GitHub as a valuable platform for showcasing skills and collaborating. While many of my current projects are developed privately, I am exploring opportunities to release code and contribute more actively to the open-source community as my projects mature.
+
+---
