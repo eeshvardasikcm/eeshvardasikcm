@@ -20,7 +20,7 @@ After a period dedicated to these spiritual explorations, I am now channeling th
 
 ## 🔭 I’m Currently Working On
 
-* **Ayurveda and Project Management App:** Actively developing this platform for Android and Web, aiming to integrate Ayurvedic principles with effective project management tools. I plan to share more about its development journey and potentially some code flows here on GitHub.
+* **Ayurveda Project Management App:** Actively developing this platform for Android and Web, aiming to integrate Ayurvedic principles with effective project management tools. I plan to share more about its development journey and potentially some code flows here on GitHub.
 * **Machine Learning Engineering:** Deepening my expertise through Google Cloud Skills Boosts, focusing on the Machine Learning Engineering Certification coursework.
 
 ---
