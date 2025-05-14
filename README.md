@@ -4,7 +4,7 @@
   <img src="https://github.com/eeshvardasikcm/eeshvardasikcm/assets/96601374/2808daf6-caf0-4fc7-92f7-0a4119119858" alt="Ayurveda and Project Management" width="600"/>
 </p>
 
-I am the sole designer, developer, and creator of **Ayurveda and Project Management**, an upcoming application for Android and Web. My passion lies in bridging ancient wisdom with modern technology.
+I am the sole designer, developer, and creator of **Ayurveda Project Management**, an upcoming application for Android and Web. My passion lies in bridging ancient wisdom with modern technology.
 
 _Any opinions and views expressed are my own._
 
