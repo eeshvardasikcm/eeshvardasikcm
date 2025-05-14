@@ -12,9 +12,9 @@ _Any opinions and views expressed are my own._
 
 ## About Me
 
-I am a dedicated lifelong learner with nearly two decades of in-depth study in **Ayurveda** and the practice of **Krishna Bhakti Yoga**. This profound spiritual journey has provided me with unique perspectives on discipline, holistic systems, and well-being, which I now integrate into my approach to software development and project management.
+I am a dedicated lifelong learner with nearly two decades of study in **Ayurveda** and the practice of **Krishna Bhakti Yoga**. This profound spiritual journey has provided me with unique perspectives on discipline, holistic systems, and well-being, which I now integrate into my approach to software development and project management.
 
-After a period dedicated to these spiritual explorations, I am now channeling this experience, alongside focused technical training, to develop innovative solutions. I learn effectively by creating new code and am committed to making steady progress on my personal and professional brand.
+After a period dedicated to these spiritual explorations, I am now channeling this experience, alongside focused technical training, to develop innovative solutions. I learn effectively by creating new code and am committed to making steady progress on my personal brand and my professional career.
 
 ---
 
