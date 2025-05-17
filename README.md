@@ -4,7 +4,7 @@
   <img src="https://github.com/eeshvardasikcm/eeshvardasikcm/assets/96601374/2808daf6-caf0-4fc7-92f7-0a4119119858" alt="Ayurveda and Project Management" width="600"/>
 </p>
 
-I am the sole designer, developer, and creator of **Ayurveda Project Management**, an upcoming application for Android and Web. My passion lies in bridging ancient wisdom with modern technology.
+I am the sole designer, developer, and creator of **Ayurveda Project Management**, an upcoming application for Android and Web. My passion lies in bridging ancient wisdom with modern technology. I am also currently developing my **Insight for Good Platform ADK** concept for the Agent Development Kit Hackathon.
 
 _Any opinions and views expressed are my own._
 
@@ -20,7 +20,8 @@ After a period dedicated to these spiritual explorations, I am now channeling th
 
 ## 🔭 I’m Currently Working On
 
-* **Ayurveda Project Management App:** Actively developing this platform for Android and Web, aiming to integrate Ayurvedic principles with effective project management tools. I plan to share more about its development journey and potentially some code flows here on GitHub.
+* **Insight for Good Platform ADK (Agent Development Kit Hackathon Concept):** Excited to be developing this concept. [You can view the project details here](https://github.com/eeshvardasikcm/insight-for-good-platform-adk).
+* **Ayurveda Project Management App:** The development of this platform for Android and Web is largely on hold until the conclusion of the Agent Development Kit Hackathon. I plan to share more about its development journey and potentially some code flows here on GitHub once I resume active development.
 * **Machine Learning Engineering:** Deepening my expertise through Google Cloud Skills Boosts, focusing on the Machine Learning Engineering Certification coursework.
 
 ---
