@@ -22,7 +22,7 @@ After a period dedicated to these spiritual explorations, I am now channeling th
 
 * **Ayurveda Project Management App:** The development of this platform for Android and Web is largely on hold until the conclusion of the Agent Development Kit Hackathon. I plan to share more about its development journey and potentially some code flows here on GitHub once I resume active development.
 * **Machine Learning Engineering:** Deepening my expertise through Google Cloud Skills Boosts, focusing on the Machine Learning Engineering Certification coursework.
-* domain forwarding issue with the Internet right now. I can probably make a temporary change to my GitHub links on my profile for now. looks like there's a serious propogation inssue with the Internet. I had already made the change to links, but it didn't show up untill i clicked edit profile. this appears like there's some serious issues with the GitHub UI for some time now. I am not working on GitHub code.
+* domain forwarding issue with the Internet right now. I can probably make a temporary change to my GitHub links on my profile for now. looks like there's a serious propogation inssue with the Internet. I had already made the change to links, but it didn't show up untill i clicked edit profile. this appears like there's some serious issues with the GitHub UI for some time now. I am not working on GitHub code. I was working on a new fork of Fearless SIMD, until the GitHub UI issues just became a serious issue tonight. I will likely use other means to continue working on Fearless SIMD, that means I will likely not use GitHub right now for Fearless SIMD, untill the GitHub UI issues are resolved by GitHub.
 ---
 
 ## 🌱 I’m Currently Learning
