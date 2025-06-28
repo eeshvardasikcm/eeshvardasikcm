@@ -19,9 +19,7 @@ REPOSITORIES ARE NOW PRIVATE
 
 ## Ayurveda Project Management
 
-<p align="center">
-  <img src="https://github.com/eeshvardasikcm/eeshvardasikcm/assets/96601374/2808daf6-caf0-4fc7-92f7-0a4119119858" alt="Ayurveda and Project Management" width="400"/>
-</p>
+![1000001348](https://github.com/user-attachments/assets/4c607e5f-455d-4413-a5dd-ba27ea89e9c2)
 
 I am the sole designer, developer, and creator of this upcoming application for Android and Web.
 
