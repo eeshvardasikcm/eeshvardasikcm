@@ -40,7 +40,7 @@ I am a dedicated lifelong learner with nearly two decades of study in **Ayurveda
 ## 🔭 I’m Currently Working On
 
 * **Ayurveda Project Management App:** The development of this platform for Android and Web is largely on hold until the conclusion of the Agent Development Kit Hackathon. I plan to share more about its development journey and potentially some code flows here on GitHub once I resume active development.
-* [My new designs](https://github.com/eeshvardasikcm/cpp-how-to/blob/main/precision-performance.md). A recent new proposal meant for rust, had the effect of me desiring to enter that discreet domain, even if not publicly This study  appears to have been going on for some time. Happy to be able to begin answering some of the thoughts that are still issues faced today in rust SIMD.
+* [My new designs](https://github.com/eeshvardasikcm/cpp-how-to/blob/main/precision-performance.md). A recent new proposal meant for rust, had the effect of me desiring to enter that discreet domain, even if not publicly This study  appears to have been going on for some time. Happy to be able to begin answering some of the thoughts that are still issues faced today in rust SIMD. The experience working directly with Fearless SIMD was very helpful, as their approach appears to be beyond my introductory precision-performance code here. My DevOps perspective is not interested in entering into discrete scenarios concerning precision-performance, as the training I have received in DevOps addresses a different level of the 
 * **Machine Learning Engineering:** Deepening my expertise through Google Cloud Skills Boosts, focusing on the Machine Learning Engineering Certification coursework.
 
 ---
