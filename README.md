@@ -12,7 +12,7 @@ I am the sole designer, developer, and creator of projects like **Ayurveda Proje
 _Any opinions and views expressed are my own._
 
 ---
-SOME REPOSITORIES ARE NOW PRIVATE THAT WERE PREVIOUSLY PUBLIC. I HAVE NEVER MADE PRIVATE ANY REPOSITORY OF MINE THAT IS FORKED FROM BY OTHERS. I like the [policies](https://github.com/stumpsyn/policies/blob/master/citizen_code_of_conduct.md)
+SOME REPOSITORIES ARE NOW PRIVATE THAT WERE PREVIOUSLY PUBLIC. I HAVE NEVER MADE PRIVATE ANY REPOSITORY OF MINE THAT IS FORKED FROM BY OTHERS. I like this [policies](https://github.com/stumpsyn/policies/blob/master/citizen_code_of_conduct.md) template. I see discrimination against people for having a background in or current experience or role in any one particular field, computing language, expertise, or lack of discreet expertise, as additional forms of unwanted behavior. Please feel open to share ideas and ask questions in my repositories or with me in repositories of others.
 
 [if you have any issues or want to talk with me](https://github.com/eeshvardasikcm/contact)
 ---
