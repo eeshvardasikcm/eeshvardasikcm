@@ -12,7 +12,7 @@ I am the sole designer, developer, and creator of projects like **Ayurveda Proje
 _Any opinions and views expressed are my own._
 
 ---
-SOME REPOSITORIES ARE NOW PRIVATE THAT WERE PREVIOUSLY PUBLIC. I HAVE NEVER MADE PRIVATE ANY REPOSITORY OF MINE THAT IS FORKED FROM BY OTHERS. I like the [policies](
+SOME REPOSITORIES ARE NOW PRIVATE THAT WERE PREVIOUSLY PUBLIC. I HAVE NEVER MADE PRIVATE ANY REPOSITORY OF MINE THAT IS FORKED FROM BY OTHERS. I like the [policies](https://github.com/stumpsyn/policies/blob/master/citizen_code_of_conduct.md)
 
 [if you have any issues or want to talk with me](https://github.com/eeshvardasikcm/contact)
 ---
