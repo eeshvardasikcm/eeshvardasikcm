@@ -40,8 +40,7 @@ I am a dedicated lifelong learner with nearly two decades of study in **Ayurveda
 ## 🔭 I’m Currently Working On
 
 * **Ayurveda Project Management App:** The development of this platform for Android and Web is largely on hold until the conclusion of the Agent Development Kit Hackathon. I plan to share more about its development journey and potentially some code flows here on GitHub once I resume active development.
-* [My new designs](https://github.com/eeshvardasikcm/cpp-how-to/blob/main/precision-performance.md).
-  * Linear algebra has many new applications in modern times. I am looking forward to building my MLOps solution privately. Mathematics is at the heart of many branches of computing technologies, and in this modern era can be utilized beyond the processor in many ways.
+* [precision-performance](https://github.com/eeshvardasikcm/cpp-how-to/blob/main/precision-performance.md).
 * **Machine Learning Engineering:** Deepening my expertise through Google Cloud Skills Boosts, focusing on the Machine Learning Engineering Certification coursework.
 
 ---
