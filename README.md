@@ -79,6 +79,6 @@ I am a dedicated lifelong learner with nearly two decades of study in **Ayurveda
 ## 💡 Exploring GitHub
 
 I see GitHub as a valuable platform for showcasing skills and collaborating. While many of my current projects are developed privately, I am exploring opportunities to release code and contribute more actively to the open-source community as my projects mature.
-_Serious issues with GitHub not propogating links in profile bio has caused me to start a process of not using links in GitHub bio any longer. I suppose I could just put the links in a profile repository because the vcs system in the GitHub UI appears to propogate somewhat betted than other parts of the GitHub site._
+_Serious issues with GitHub not propogating links in profile bio has caused me to start a process of not using links in GitHub bio any longer. I suppose I could just put the links in a profile repository because the vcs system in the GitHub UI appears to propogate somewhat better than other parts of the GitHub site._
 
 ---
